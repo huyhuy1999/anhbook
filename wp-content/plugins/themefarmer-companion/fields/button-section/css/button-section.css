@@ -1,0 +1,7 @@
+.themefarmer-button-section{
+    display: block !important;
+}
+
+.themefarmer-button-section .button.button-secondary {
+    font-weight: 400;
+}

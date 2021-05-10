@@ -1,0 +1,119 @@
+.task-container {
+    margin-top: 20px;
+}
+
+.task-container__task:not(:last-child) {
+    margin-bottom: 20px;
+}
+
+.task-container__task {
+    padding: 27px 40px;
+    height: auto !important;
+    background-color: white;
+    border-radius: 6px;
+    box-shadow: 0px 0px 15px 1px rgba(71, 71, 68, 0.05);
+    transition: .1s;
+}
+
+.task-container__task:hover {
+    box-shadow: 0px 0px 15px 1px rgba(71, 71, 68, 0.15);
+}
+
+.task-container__task-content-row {
+    display: table;
+    width: 100%;
+}
+
+.task-container__task-aside {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.task-container__task-action {
+    font-size: 45px;
+    width: 54px;
+    height: 54px;
+    text-align: center;
+    line-height: 54px;
+}
+
+.task-container__task-body {
+    display: table-cell;
+    vertical-align: middle;
+    padding-right: 40px;
+    padding-left: 40px;
+    width: 100%;
+}
+
+.task-container__task-title {
+    font-weight: 600;
+    font-size: 18px;
+    margin-bottom: 12px;
+}
+
+.task-container__task-description {
+    margin-bottom: 20px;
+}
+
+.task-container__task-footer {
+
+}
+
+.task-container__task-action-label {
+    cursor: pointer;
+}
+
+/* .task-container END */
+.task-container__task-action-checkbox-icon {
+    height: 50px;
+    width: 50px;
+    border: 2px solid #e6e6e6;
+    transition: .3s;
+    display: block;
+    border-radius: 50%;
+    position: relative;
+    color: #e6e6e6;
+}
+
+.task-container__task-action-checkbox:checked + .task-container__task-action-checkbox-icon {
+    background: #34a853;
+    border-color: #34a853;
+
+
+
+}
+
+.task-container__task-action-checkbox-icon svg {
+    fill: currentColor;
+    width: 19px;
+    height: 13px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+@media (max-width: 783px) {
+    .task-container__task-action-checkbox-icon {
+        width: 40px;
+        height: 40px;
+    }
+}
+
+.task-container__task-action-checkbox {
+    display: none!important;
+}
+
+.task-container__task-checked {
+
+}
+
+.task-container__task-action-label--auto  {
+    cursor: default!important;
+}
+
+.task-container__task-action-label-check:hover .task-container__task-action-checkbox:not(:checked) + .task-container__task-action-checkbox-icon {
+    box-shadow: 0 0 0 3px #33a652;
+    border-color: #fff;
+    color: #33a652;
+}

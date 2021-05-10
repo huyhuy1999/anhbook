@@ -1,0 +1,11 @@
+{
+  "mp2migrator.js": "mp2migrator.65e1b491.js",
+  "public.js": "public.e191ebd7.js",
+  "vendor.js": "vendor.5fbd44b9.js",
+  "admin_vendor_chunk.js": "admin_vendor_chunk.5fbd44b9.chunk.js",
+  "admin.js": "admin.5fbd44b9.chunk.js",
+  "admin_vendor.js": "admin_vendor.5fbd44b9.chunk.js",
+  "form_editor.js": "form_editor.5fbd44b9.chunk.js",
+  "mailpoet.js": "mailpoet.5fbd44b9.chunk.js",
+  "newsletter_editor.js": "newsletter_editor.5fbd44b9.chunk.js"
+}

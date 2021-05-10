@@ -1,0 +1,4 @@
+.woocommerce .col2-set .col-1, .woocommerce-page .col2-set .col-1,
+.woocommerce .col2-set .col-2, .woocommerce-page .col2-set .col-2{
+    max-width:48%;  
+}

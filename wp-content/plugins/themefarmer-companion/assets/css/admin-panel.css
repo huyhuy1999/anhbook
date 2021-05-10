@@ -1,0 +1,177 @@
+.tf-change-menu-icon {
+    display: inline-block;
+    border: 1px solid #eee;
+    width: 28px;
+    height: 22px;
+    margin-right: 7px;
+    text-align: center;
+    padding-top: 1px;
+    cursor: pointer;
+    box-shadow: 0 1px 0 #ccc;
+    border: 1px solid #ccc;
+    border-radius: 2px;
+}
+
+.tf-change-menu-icon:hover {
+    border-color: #9f9f9f;
+}
+
+.tf-menu-icon-show {
+    font-size: 20px;
+    line-height: 24px;
+}
+
+.themefarmer-basic-icon-panel-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    min-height: 360px;
+    background: rgba(0, 0, 0, 0.71);
+    /* opacity: .7; */
+    z-index: 15000;
+    /* max-height: 100vh; */
+}
+
+.themefarmer-basic-icon-panel {
+    position: fixed;
+    top: 40px;
+    left: 30px;
+    right: 30px;
+    bottom: 120px;
+    z-index: 160000;
+    background-color: #FFF;
+}
+
+.tf-icons-picker-panel {
+    background-color: #FFF;
+    padding: 50px;
+    overflow-y: auto;
+    max-height: 100%;
+    padding-top: 0px;
+}
+
+.themefarmer-icon-picker {
+    font-size: 25px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    width: 40px;
+    height: 30px;
+    display: inline-block;
+    border: 1px solid #999;
+    text-align: center;
+    padding-top: 5px;
+    cursor: pointer;
+    float: left;
+}
+.tf-icon-panel-title {
+    /* float: left; */
+    display: inline-block;
+    font-size: 20px;
+    padding: 20px 10px 20px 50px;
+}
+
+.tf-icon-search-bar {
+    display: inline-block;
+    margin-left: 20px;
+}
+
+
+
+.themefarmer-admin-menu-switch {
+    font-size: 10px;
+}
+
+.themefarmer-admin-menu-switch .switch {
+  position: relative;
+  display: inline-block;
+  width: 50px;
+  height: 20px;
+}
+
+.themefarmer-admin-menu-switch .switch input {display:none;}
+
+.themefarmer-admin-menu-switch .slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  -webkit-transition: .4s;
+  transition: .4s;
+  border-radius: 3px;
+}
+
+.themefarmer-admin-menu-switch .slider:before {
+  position: absolute;
+    content: "";
+    height: 15px;
+    width: 27px;
+    left: 4px;
+    top: 2px;
+    background-color: white;
+    -webkit-transition: .4s;
+    transition: .4s;
+    border-radius: 3px;
+}
+button.media-modal-close {
+    float: right;
+    margin-right: 7px;
+    margin-top: 7px;
+    width: 25px;
+    height: 25px;
+    background-color: #cacaca;
+    border: 1px solid #909090;
+    cursor: pointer;
+}
+
+.themefarmer-admin-menu-switch input:checked + .slider {
+  background-color: #2196F3;
+}
+
+.themefarmer-admin-menu-switch input:focus + .slider {
+  box-shadow: 0 0 1px #2196F3;
+}
+
+.themefarmer-admin-menu-switch input:checked + .slider:before {
+  -webkit-transform: translateX(15px);
+  -ms-transform: translateX(15px);
+  transform: translateX(15px);
+}
+
+.item-title .themefarmer-admin-menu-switch {
+    visibility: hidden;
+    transition: all .3s linear;
+    opacity: 0;
+    display: none;
+}
+.menu-item.menu-item-depth-0 .item-title .themefarmer-admin-menu-switch{
+  display: inline-block;
+}
+
+.item-title:hover .themefarmer-admin-menu-switch {
+    visibility: visible;
+    opacity: 1;
+}
+
+
+/* Rounded sliders */
+.themefarmer-admin-menu-switch .slider.round {
+  border-radius: 34px;
+}
+
+.themefarmer-admin-menu-switch .slider.round:before {
+  border-radius: 50%;
+}
+
+span.image-preview-container {
+    display: block;
+    /* width: 20%; */
+}
+
+img.nav-img-preview {
+    max-width: 100%;
+}

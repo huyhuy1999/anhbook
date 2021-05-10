@@ -1,0 +1,75 @@
+.saleszone-notice {
+    background: #e9eff3;
+    border: 10px solid #fff;
+    color: #608299;
+    padding: 30px 10px;
+    text-align: center;
+    box-shadow: none;
+    text-align: center;
+    padding: 25px;
+    position: relative;
+}
+
+/* Remove woo option*/
+#customize-control-woocommerce_catalog_columns {
+    display: none!important;
+}
+
+/*!*!* Remove freemius tabs *!*!*/
+/*.fs-tab {*/
+    /*display: none!important;*/
+/*}*/
+
+
+/*******************
+ saleszone-tab start
+********************/
+
+.saleszone-tab {
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.saleszone-tab__list {
+    font-size: 0;
+}
+
+.saleszone-tab__link {
+    display: inline-block;
+    padding: 7px 0;
+    position: relative;
+    text-decoration: none;
+    font-size: 16px;
+    color: #999999;
+    background: transparent!important;
+    border: none!important;
+}
+.saleszone-tab__link:hover {
+    background: transparent;
+}
+.saleszone-tab__link:focus {
+    box-shadow: none;
+}
+.saleszone-tab__link:not(:last-child) {
+    margin-right: 38px;
+}
+
+.saleszone-tab__link.nav-tab-active {
+    color: #3d3d3d;
+    font-weight: 600;
+}
+
+
+
+.saleszone-tab__link.nav-tab-active:before {
+    content: '';
+    background: #0073aa;
+    width: 100%;
+    height: 3px;
+    position: absolute;
+    left: 0;
+    bottom: -2px;
+}
+
+/*******************
+ saleszone-tab end
+********************/

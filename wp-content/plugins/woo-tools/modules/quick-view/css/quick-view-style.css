@@ -1,0 +1,91 @@
+.wcaqv-overlay {
+    display: none;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.6);
+    z-index: 1000;
+}
+
+
+.wcaqv-model-details {
+    position: relative;
+    height: 80%;
+    width: 90%;
+    background-color: rgba(0, 0, 0, 0.3);
+    margin: 0 auto;
+    margin-top: 5%;
+    margin-bottom: 2%;
+    border-radius: 4px;
+    padding: 20px;
+}
+
+#themefarmer-wcaqv-body {
+    background-color: #FFF;
+    height: 100%;
+    overflow-y: auto;
+}
+
+#tfwctool-wishlist-form {
+    overflow: auto;
+}
+
+.wcaqv-model-details .wcaqv-close {
+    position: absolute;
+    background-color: #ccc;
+    color: #43454b;
+    padding: 1px 8px;
+    font-size: 15px;
+    right: 45px;
+    top: 27px;
+    cursor: pointer;
+    z-index: 100;
+    transition: all .3s ease-in-out;
+    border-radius: 2px;
+}
+
+.wcaqv-model-details .wcaqv-close:hover {
+    background-color: #43454b;
+    color: red;
+}
+
+.wcaqv-progress {
+    background-image: url(clock-loading.gif);
+    height: 300px;
+    width: 400px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+
+
+/*product popup*/
+
+.wcaqv-product .product-thumb.img-thumbnail {
+    width: 40%;
+    float: left;
+    position: relative;
+}
+
+.wcaqv-product .product-content.entry-summary {
+    width: 60%;
+    float: left;
+    padding: 20px;
+}
+
+.wcaqv-product .product-thumb.img-thumbnail .images {
+    width: 100%;
+    height: auto;
+    opacity: 1 !important;
+    margin-bottom: 0;
+}
+
+
+.wcaqv-product .product-thumb.img-thumbnail .onsale {
+    position: absolute;
+    right: 0;
+}

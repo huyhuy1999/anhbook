@@ -1,0 +1,227 @@
+.tfwctool-compare-overlay {
+    display: none;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.6);
+    z-index: 1000;
+}
+
+.tfwctool-compare-model-details {
+    position: relative;
+    height: 80%;
+    width: 90%;
+    background-color: rgba(0, 0, 0, 0.3);
+    margin: 0 auto;
+    margin-top: 5%;
+    margin-bottom: 2%;
+    border-radius: 4px;
+    padding: 20px;
+}
+
+#tfwctool-compare-body {
+    background-color: #FFF;
+    height: 100%;
+    overflow-y: auto;
+}
+
+#tfwctool-wishlist-form {
+    overflow-x: auto;
+}
+
+#tfwctool-compare-form {
+    overflow: hidden !important;
+    /* display: table; */
+    width: 100%; 
+    display: block;
+}
+
+.tfwctool-compare-model-details .tfwctool-compare-close {
+    position: absolute;
+    background-color: #ccc;
+    color: #43454b;
+    padding: 1px 8px;
+    font-size: 15px;
+    right: 45px;
+    top: 27px;
+    cursor: pointer;
+    z-index: 100;
+    transition: all .3s ease-in-out;
+    border-radius: 2px;
+}
+
+.tfwctool-compare-model-details .tfwctool-compare-close:hover {
+    background-color: #43454b;
+    color: red;
+}
+
+.tfwctool-compare-progress {
+    background-image: url(clock-loading.gif);
+    height: 300px;
+    width: 400px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+.tfwctool-compare-table td {
+    text-align: center;
+}
+
+.tfwctool-compare-table .even {
+    background-color: #FFF;
+}
+
+.tfwctool-compare-table td {
+    min-width: 200px;
+}
+
+.tfwctool-compare-table th{
+    min-width: 200px;
+    width: 200px !important;
+}
+
+.tfwctool-compare-table tr.image th,
+.tfwctool-compare-table tr.title th,
+.tfwctool-compare-table tr.price th,
+.tfwctool-compare-table tr.image td,
+.tfwctool-compare-table tr.title td,
+.tfwctool-compare-table tr.price td,
+.tfwctool-compare-table tr.add-to-cart th,
+.tfwctool-compare-table tr.add-to-cart td {
+    border-top: 0 !important;
+}
+
+.tfwctool-compare-table tr.add-to-cart th,
+.tfwctool-compare-table tr.add-to-cart td{
+    padding-bottom: 20px !important;
+    background-color: #fff;
+    border-right: 1px solid #f1f1f1;
+}
+
+.tfwctool-compare-table tr.image img {
+    width: 150px;
+    /* margin: 0 auto; */
+    /* display: block; */
+}
+
+.tfwctool-compare-quickinfo {
+    position: fixed;
+    bottom: 50px;
+    right: 50px;
+    z-index: 999;
+    /* height: 45px; */
+}
+
+.tfwctool-quick-button {
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    background-color: #7c7c7c;
+    color: #FFF;
+    padding: 11px 25px;
+    border-radius: 2px;
+    font-weight: bold;
+    cursor: pointer;
+    width: 150px;
+    text-align: center;
+    float: right;
+    line-height: 1.8;
+}
+
+.tfwctool-quick-button span.count {
+    background-color: rgba(0, 0, 0, 0.46);
+    height: 25px;
+    border-radius: 2px;
+    display: inline-block;
+    line-height: 26px;
+    min-width: 25px;
+    text-align: center;
+    margin-left: 10px;
+}
+
+.tfwctool-quick-button span.label, .tfwctool-quick-button span.count {
+    display: inline-block !important;
+    float: left;
+}
+
+.tfwctool-quick-porducts {
+    width: auto;
+    /* height: 150px; */
+    background-color: #FFF;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    box-shadow: 0px 0px 2px 0px rgb(0, 0, 0);
+    transition: all .3s ease-in-out;
+    transform: scale(0);
+    transform-origin: bottom right;
+    padding-bottom: 60px;
+    display: flex;
+}
+
+.tfwctool-quick-porducts .tfwc-comp-product {
+    display: inline-block;
+    float: left;
+    position: relative;
+    width: 160px;
+    text-align: center;
+    margin-right: 5px;
+}
+
+.tfwctool-quick-porducts .tfwc-comp-product a.tfwctool-remove-quick-compare {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    width: 20px;
+    height: 20px;
+    color: #FFF;
+}
+
+.tfwctool-quick-porducts .tfwc-comp-product .tfwc-prd-image {}
+
+.tfwctool-quick-porducts .tfwc-comp-product .tfwc-prd-image img {
+    width: 150px;
+    height: auto;
+}
+
+.tfwctool-quick-porducts .tfwc-comp-product a.tfwctool-remove-quick-compare span {
+    display: none;
+}
+
+.tfwctool-quick-porducts .tfwc-comp-product a.tfwctool-remove-quick-compare:hover {
+    background-color: #747474;
+    color: white;
+    border-radius: 1px;
+}
+
+.tfwctool-quick-porducts .tfwc-comp-product .tfwc-prd-title, .tfwctool-quick-porducts .tfwc-comp-product .tfwc-prd-title a {padding: 5px;font-size: 14px;}
+
+.tfwctool-compare-quickinfo-inner {
+    position: relative;
+}
+
+.tfwctool-compare-quickinfo-inner:hover .tfwctool-quick-porducts {
+    transform: scale(1);
+}
+.tfwctool-loading{
+    opacity: 0.5;
+    position: relative;
+}
+.tfwctool-loading:after{
+    font-family: WooCommerce;
+    content: '\e01c';
+    vertical-align: top;
+    font-weight: 400;
+    position: absolute;
+    top: 15px;
+    right: auto;
+    left: 5px;
+    -webkit-animation: spin 2s linear infinite;
+    animation: spin 2s linear infinite;
+}

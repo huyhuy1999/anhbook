@@ -1,0 +1,30 @@
+<div class="user-panel__item wcml_currency_switcher">
+    <span class="user-panel__link">
+        {% for currency in currencies %}
+            {% if( currency == selected_currency) %}
+                <span class="user-panel__text-el">{{ get_formatted_price( currency, format )|raw }}</span>
+            {% endif %}
+        {% endfor %}
+        <i class="user-panel__arrow user-panel__arrow--down">
+            <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 11.99 8"><path d="M2.13.39L8.01 6.1 6.2 8 .3 2.29A1.27 1.27 0 0 1 .38.56 1.36 1.36 0 0 1 2.13.39z"/><path d="M11.81 2L6.2 8 4.3 6.18l5.61-6a1.79 1.79 0 0 1 1.75.12 1.67 1.67 0 0 1 .15 1.7z"/></svg>
+        </i>
+    </span>
+    <div class="user-panel__drop user-panel__drop--rtl">
+        <ul class="overlay">
+            {% for currency in currencies %}
+                {% if( currency != selected_currency) %}
+                    <li class="overlay__item">
+                        <a rel="{{ currency }}" class="overlay__link">
+                            {{ get_formatted_price( currency, format )|raw }}
+                        </a>
+                    </li>
+                {% endif %}
+            {% endfor %}
+        </ul>
+    </div>
+</div>
+<style>
+    .wcml_currency_switcher + img {
+        display: none;
+    }
+</style>

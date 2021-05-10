@@ -1,0 +1,1316 @@
+# Copyright (C) 2019 ThemeFarmer
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: NewStore 1.0.0\n"
+"Report-Msgid-Bugs-To: https://themefarmer.com \n"
+"POT-Creation-Date: 2019-08-13 17:35+0530\n"
+"PO-Revision-Date: 2019-08-13 17:35+0530\n"
+"Last-Translator: themefarmer.com \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:22
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:38
+#, php-format
+msgid "Copyright &copy; %1$s %2$s All Right Reserved."
+msgstr ""
+
+#: footer.php:38
+msgid "Y"
+msgstr ""
+
+#: footer.php:44
+#, php-format
+msgid "Theme: %1$s by %2$s"
+msgstr ""
+
+#: footer.php:47
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: footer.php:50
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: functions.php:49
+msgid "Primary"
+msgstr ""
+
+#: functions.php:50
+msgid "Top bar Navigation"
+msgstr ""
+
+#: functions.php:51
+msgid "Product Catalog"
+msgstr ""
+
+#: functions.php:91
+msgctxt "Theme starter content"
+msgid "Home"
+msgstr ""
+
+#: functions.php:95
+msgctxt "Theme starter content"
+msgid "Blog"
+msgstr ""
+
+#: functions.php:105
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:141
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:144
+msgid "Sidebar Widget Area"
+msgstr ""
+
+#: functions.php:152 functions.php:155
+msgid "FrontPage Top Widget Area"
+msgstr ""
+
+#: functions.php:164
+msgid "WooCommerce Sidebar"
+msgstr ""
+
+#: functions.php:167
+msgid "WooCommerce Widget Area"
+msgstr ""
+
+#: functions.php:175
+msgid "Product Sidebar"
+msgstr ""
+
+#: functions.php:178
+msgid "Product Widget Area"
+msgstr ""
+
+#: functions.php:186
+msgid "FrontPage Products Widget Area"
+msgstr ""
+
+#: functions.php:189
+msgid "FrontPage Products Widget Area Column"
+msgstr ""
+
+#: functions.php:198
+msgid "FrontPage Product Widget Area Column "
+msgstr ""
+
+#: functions.php:201
+msgid "FrontPage Widget Area Column"
+msgstr ""
+
+#: functions.php:211 functions.php:214
+#, php-format
+msgid "Footer Widget Area Column %s"
+msgstr ""
+
+#: header.php:25
+msgid "Skip to content"
+msgstr ""
+
+#: search.php:21
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform-product.php:7
+msgid "All Categories"
+msgstr ""
+
+#: searchform-product.php:16
+msgid "Search "
+msgstr ""
+
+#: searchform-product.php:16
+msgid "Search for:"
+msgstr ""
+
+#: sidebar-product.php:20
+msgid ""
+"This is Product Widget Area. You may add widget here from Customizer or "
+"Appearance -> Widgets. Or you may select full width layout for products in "
+"customier."
+msgstr ""
+
+#: sidebar-shop.php:18
+msgid ""
+"This is a WooCommerce Widget Area. You may add widget here from Customizer "
+"or Appearance -> Widgets. Or to hide this you may select full width layout "
+"for shop in customier."
+msgstr ""
+
+#: admin/inc/class-themefarmer-about-page.php:61
+#: admin/inc/include-companion.php:42 admin/inc/plugin-include-control.php:41
+msgid "Installing"
+msgstr ""
+
+#: admin/inc/class-themefarmer-about-page.php:62
+#: admin/inc/include-companion.php:43 admin/inc/plugin-include-control.php:42
+msgid "Activating"
+msgstr ""
+
+#: admin/inc/class-themefarmer-about-page.php:63
+#: admin/inc/include-companion.php:44 admin/inc/plugin-include-control.php:43
+msgid "Error"
+msgstr ""
+
+#: admin/inc/class-themefarmer-about-page.php:74
+#, php-format
+msgid "Welcome to %1$s %2$s"
+msgstr ""
+
+#: admin/inc/class-themefarmer-about-page.php:87
+#, php-format
+msgid ""
+"Welcome! Thank you for choosing NewStore  ! To fully take advantage of our "
+"theme please make sure you visit our %1$s welcome page %2$s."
+msgstr ""
+
+#: admin/inc/class-themefarmer-about-page.php:88
+msgid "Get started with NewStore "
+msgstr ""
+
+#: admin/inc/class-themefarmer-about-page.php:99
+msgid "Welcome to"
+msgstr ""
+
+#: admin/inc/class-themefarmer-about-page.php:105
+msgid "View Pro Vesion"
+msgstr ""
+
+#: admin/inc/class-themefarmer-about-page.php:162
+msgid "Getting Started"
+msgstr ""
+
+#: admin/inc/class-themefarmer-about-page.php:167
+msgid "Recommended Actions"
+msgstr ""
+
+#: admin/inc/class-themefarmer-about-page.php:174
+msgid "Useful Plugins"
+msgstr ""
+
+#: admin/inc/class-themefarmer-about-page.php:181
+msgid "Free vs Pro"
+msgstr ""
+
+#: admin/inc/class-themefarmer-about-page.php:188
+msgid "Theme Information"
+msgstr ""
+
+#: admin/inc/class-themefarmer-about-page.php:262
+#, php-format
+msgid "Install %s Now"
+msgstr ""
+
+#: admin/inc/class-themefarmer-about-page.php:264
+#: admin/inc/include-companion.php:82
+msgid "Install & Activate"
+msgstr ""
+
+#: admin/inc/class-themefarmer-about-page.php:281
+#, php-format
+msgid "Activate %s Now"
+msgstr ""
+
+#: admin/inc/class-themefarmer-about-page.php:283
+#: inc/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: admin/inc/class-themefarmer-about-page.php:286
+#: inc/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: admin/inc/class-themefarmer-about-page.php:396
+#: admin/inc/include-companion.php:98
+msgid "ThemeFarmer Companion"
+msgstr ""
+
+#: admin/inc/class-themefarmer-about-page.php:398
+msgid ""
+"It is highly recommended that you install the companion plugin to have "
+"access to the advance Frontpage sections and other theme features"
+msgstr ""
+
+#: admin/inc/include-companion.php:80
+msgid ""
+"ThemeFarmer Companion plugin is required to take advantage of this theme's "
+"features in the customizer."
+msgstr ""
+
+#: admin/inc/include-companion.php:81
+msgid "Install NewStore  Companion Now"
+msgstr ""
+
+#: admin/inc/include-companion.php:81
+msgid "NewStore  Companion"
+msgstr ""
+
+#: admin/inc/include-companion.php:97
+msgid ""
+"You have installed ThemeFarmer Companion. Activate it to take advantage of "
+"this theme's features in the customizer."
+msgstr ""
+
+#: admin/inc/include-companion.php:98
+msgid "Activate ThemeFarmer Companion now"
+msgstr ""
+
+#: admin/inc/include-companion.php:99
+msgid "Activate Now"
+msgstr ""
+
+#: admin/tab-pages/free-vs-pro.php:6
+msgid "Pro"
+msgstr ""
+
+#: admin/tab-pages/free-vs-pro.php:12
+msgid "WooCommerce Compatible"
+msgstr ""
+
+#: admin/tab-pages/free-vs-pro.php:13
+msgid "Best suitable theme for online store"
+msgstr ""
+
+#: admin/tab-pages/free-vs-pro.php:20
+msgid "Header Slider"
+msgstr ""
+
+#: admin/tab-pages/free-vs-pro.php:21
+msgid "Show of your product, servies on responsive slider"
+msgstr ""
+
+#: admin/tab-pages/free-vs-pro.php:23
+msgid "Basic"
+msgstr ""
+
+#: admin/tab-pages/free-vs-pro.php:24 admin/tab-pages/free-vs-pro.php:60
+#: admin/tab-pages/free-vs-pro.php:67
+msgid "(Select Diffrent Images for Desktop, Mobile & Tablet)"
+msgstr ""
+
+#: admin/tab-pages/free-vs-pro.php:28
+msgid "FrontPage Sections"
+msgstr ""
+
+#: admin/tab-pages/free-vs-pro.php:29
+msgid ""
+"Slider, Services, About Us, Subscribe, Contact Us, Shop, Team, Testimonail, "
+"Brand, Blog"
+msgstr ""
+
+#: admin/tab-pages/free-vs-pro.php:32
+msgid ""
+"Advance Live 17+(Pre Built) and Unlimited Section by Shortcode and widgets"
+msgstr ""
+
+#: admin/tab-pages/free-vs-pro.php:36
+msgid "Page Templates"
+msgstr ""
+
+#: admin/tab-pages/free-vs-pro.php:38
+msgid "Limited"
+msgstr ""
+
+#: admin/tab-pages/free-vs-pro.php:39
+msgid "15+ Page Templates for (Contact, About, Portfolio etc..) Page"
+msgstr ""
+
+#: admin/tab-pages/free-vs-pro.php:43
+msgid "Video Tutorials"
+msgstr ""
+
+#: admin/tab-pages/free-vs-pro.php:50
+msgid "Support"
+msgstr ""
+
+#: admin/tab-pages/free-vs-pro.php:57
+msgid "Blog Slider"
+msgstr ""
+
+#: admin/tab-pages/free-vs-pro.php:64
+msgid "Shop Slider"
+msgstr ""
+
+#: admin/tab-pages/free-vs-pro.php:71
+msgid "FrontPage Section Reorder"
+msgstr ""
+
+#: admin/tab-pages/free-vs-pro.php:78
+msgid "Portfolio"
+msgstr ""
+
+#: admin/tab-pages/free-vs-pro.php:85
+msgid "Pricing Plans Section"
+msgstr ""
+
+#: admin/tab-pages/free-vs-pro.php:86
+msgid "Home page pricing plans section to show your plans"
+msgstr ""
+
+#: admin/tab-pages/free-vs-pro.php:89
+msgid "(one click add, reorder)"
+msgstr ""
+
+#: admin/tab-pages/free-vs-pro.php:93
+msgid "Customizable Colors"
+msgstr ""
+
+#: admin/tab-pages/free-vs-pro.php:94
+msgid "Select Colors of your choice for content on your site"
+msgstr ""
+
+#: admin/tab-pages/free-vs-pro.php:104
+msgid "Get NewStore  Pro Now"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:3
+msgid "Recommended actions"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:4
+msgid ""
+"we have created list of steps to take so you get amazing expriance with "
+"theme."
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:5
+msgid "Go to Recommended actions"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:8
+msgid "Read Theme Documentation"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:9
+msgid ""
+"Missing Something..? Please check our full documentation for detaild "
+"information about NewStore "
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:10
+msgid "Go to Documentation"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:13
+msgid "Customize NewStore "
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:14
+msgid "Use customizer to setup NewStore "
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:15
+msgid "Go to Customizer"
+msgstr ""
+
+#: admin/tab-pages/theme-info.php:10
+msgid "Theme Links"
+msgstr ""
+
+#: admin/tab-pages/theme-info.php:14
+msgid "Theme Demo"
+msgstr ""
+
+#: admin/tab-pages/theme-info.php:17
+msgid "Theme Documentation"
+msgstr ""
+
+#: admin/tab-pages/theme-info.php:20
+msgid "Theme Page"
+msgstr ""
+
+#: admin/tab-pages/theme-info.php:23
+msgid "Rate this theme"
+msgstr ""
+
+#: admin/tab-pages/theme-info.php:27
+msgid "View Pro Version"
+msgstr ""
+
+#: admin/tab-pages/useful-plugins.php:26
+#: inc/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: inc/class-newstore-wc-widget-products.php:21
+msgid "A list of your store's products."
+msgstr ""
+
+#: inc/class-newstore-wc-widget-products.php:23
+msgid "TF: Products"
+msgstr ""
+
+#: inc/class-newstore-wc-widget-products.php:27
+msgid "Products"
+msgstr ""
+
+#: inc/class-newstore-wc-widget-products.php:28
+msgid "Title"
+msgstr ""
+
+#: inc/class-newstore-wc-widget-products.php:36
+msgid "Number of products to show"
+msgstr ""
+
+#: inc/class-newstore-wc-widget-products.php:41 inc/woocommerce.php:391
+msgid "Show"
+msgstr ""
+
+#: inc/class-newstore-wc-widget-products.php:43
+msgid "All products"
+msgstr ""
+
+#: inc/class-newstore-wc-widget-products.php:44
+msgid "Featured products"
+msgstr ""
+
+#: inc/class-newstore-wc-widget-products.php:45
+msgid "On-sale products"
+msgstr ""
+
+#: inc/class-newstore-wc-widget-products.php:51
+msgid "Order by"
+msgstr ""
+
+#: inc/class-newstore-wc-widget-products.php:53
+msgid "Date"
+msgstr ""
+
+#: inc/class-newstore-wc-widget-products.php:54
+msgid "Price"
+msgstr ""
+
+#: inc/class-newstore-wc-widget-products.php:55
+msgid "Random"
+msgstr ""
+
+#: inc/class-newstore-wc-widget-products.php:56
+msgid "Sales"
+msgstr ""
+
+#: inc/class-newstore-wc-widget-products.php:62
+msgctxt "Sorting order"
+msgid "Order"
+msgstr ""
+
+#: inc/class-newstore-wc-widget-products.php:64
+msgid "ASC"
+msgstr ""
+
+#: inc/class-newstore-wc-widget-products.php:65
+msgid "DESC"
+msgstr ""
+
+#: inc/class-newstore-wc-widget-products.php:71
+msgid "Enable Carousel"
+msgstr ""
+
+#: inc/class-newstore-wc-widget-products.php:79
+msgid "Number of products to show in carousel at once"
+msgstr ""
+
+#: inc/class-newstore-wc-widget-products.php:84
+msgid "Show Carousel Nav"
+msgstr ""
+
+#: inc/class-newstore-wc-widget-products.php:89
+msgid "Hide product Info"
+msgstr ""
+
+#: inc/class-newstore-wc-widget-products.php:94
+msgid "Hide free products"
+msgstr ""
+
+#: inc/class-newstore-wc-widget-products.php:99
+msgid "Show hidden products"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:336
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:342
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:354
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:360
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:366
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:371
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:376
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:381
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:386
+#: inc/class-tgm-plugin-activation.php:827
+#: inc/class-tgm-plugin-activation.php:2533
+#: inc/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:387
+#: inc/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:388
+#: inc/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:934
+#: inc/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1121
+#: inc/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2342
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2388
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3509
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3509
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/custom-header.php:32
+msgid "Default Header Image"
+msgstr ""
+
+#: inc/customizer.php:16
+msgid "Frontpage Sections"
+msgstr ""
+
+#: inc/customizer.php:21
+msgid "Banners"
+msgstr ""
+
+#: inc/customizer.php:31
+#, php-format
+msgid "Banner Image %s"
+msgstr ""
+
+#: inc/customizer.php:41
+#, php-format
+msgid "Banner Image Link %s"
+msgstr ""
+
+#: inc/customizer.php:47
+msgid "Featured Categories"
+msgstr ""
+
+#: inc/customizer.php:51
+msgid "Select Category"
+msgstr ""
+
+#: inc/customizer.php:72
+#, php-format
+msgid "Featured Category %s"
+msgstr ""
+
+#: inc/customizer.php:82
+msgid "Header Options"
+msgstr ""
+
+#: inc/customizer.php:86
+msgid "Header Types"
+msgstr ""
+
+#: inc/customizer.php:100
+msgid "Sticky Header Enable/Disable"
+msgstr ""
+
+#: inc/customizer.php:111
+msgid "Header Type"
+msgstr ""
+
+#: inc/customizer.php:113
+msgid "Small"
+msgstr ""
+
+#: inc/customizer.php:114
+msgid "Large"
+msgstr ""
+
+#: inc/customizer.php:121
+msgid "Topbar Options"
+msgstr ""
+
+#: inc/customizer.php:135
+msgid "Topbar Enable/Disable"
+msgstr ""
+
+#: inc/customizer.php:145
+msgid "Email"
+msgstr ""
+
+#: inc/customizer.php:156
+msgid "Phone"
+msgstr ""
+
+#: inc/customizer.php:167
+msgid "Address"
+msgstr ""
+
+#: inc/customizer.php:174
+msgid "Site Layout Options"
+msgstr ""
+
+#: inc/customizer.php:187
+msgid "Site Content Width"
+msgstr ""
+
+#: inc/customizer.php:197
+msgid "Layouts Optinos"
+msgstr ""
+
+#: inc/customizer.php:202
+msgid "Blog Layout"
+msgstr ""
+
+#: inc/customizer.php:213
+msgid "All Posts Page Layout"
+msgstr ""
+
+#: inc/customizer.php:228
+msgid "Single Post Layout"
+msgstr ""
+
+#: inc/customizer.php:243
+msgid "Single Page Layout"
+msgstr ""
+
+#: inc/customizer.php:254 inc/customizer.php:265
+msgid "Shop Layout"
+msgstr ""
+
+#: inc/customizer.php:280
+msgid "Single Product Layout"
+msgstr ""
+
+#: inc/menu-walker.php:333
+msgid "Add a menu"
+msgstr ""
+
+#: inc/template-tags.php:42
+#, php-format
+msgid "Leave a Comment <span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/template-tags.php:72
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:84
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:97
+#, php-format
+msgid " %1$s Edit <span class=\"screen-reader-text\">%2$s</span>"
+msgstr ""
+
+#: inc/themefarmer-functions.php:41
+#, php-format
+msgid "Search Results for : %s"
+msgstr ""
+
+#: inc/themefarmer-functions.php:43
+msgid "Error 404  : Page Not Found"
+msgstr ""
+
+#: inc/themefarmer-functions.php:131
+msgid "Full Name"
+msgstr ""
+
+#: inc/themefarmer-functions.php:132
+msgid "Your Email Address"
+msgstr ""
+
+#: inc/themefarmer-functions.php:133
+msgid "Website"
+msgstr ""
+
+#: inc/themefarmer-functions.php:144
+msgid "Message"
+msgstr ""
+
+#: inc/themefarmer-functions.php:145
+#, php-format
+msgid "Post Your Reply Here To %s"
+msgstr ""
+
+#: inc/themefarmer-functions.php:147
+msgid "SUBMIT COMMENT"
+msgstr ""
+
+#: inc/themefarmer-functions.php:149
+msgid "Leave A Comment"
+msgstr ""
+
+#: inc/themefarmer-functions.php:161
+msgid "Reply"
+msgstr ""
+
+#: inc/themefarmer-functions.php:171
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/themefarmer-functions.php:181
+msgid "at"
+msgstr ""
+
+#: inc/woocommerce.php:240
+msgid "Total"
+msgstr ""
+
+#: inc/woocommerce.php:264
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/woocommerce.php:269
+msgid "View Cart"
+msgstr ""
+
+#: inc/woocommerce.php:409 woocommerce/single-product/rating.php:47
+msgid "No Review"
+msgstr ""
+
+#: inc/woocommerce.php:480 inc/woocommerce.php:548
+msgid "My Account"
+msgstr ""
+
+#: inc/woocommerce.php:481
+msgid "My Orders"
+msgstr ""
+
+#: inc/woocommerce.php:482
+msgid "Account details"
+msgstr ""
+
+#: inc/woocommerce.php:483
+msgid "Login"
+msgstr ""
+
+#: inc/woocommerce.php:484
+msgid "Register"
+msgstr ""
+
+#: inc/woocommerce.php:485
+msgid "Cart"
+msgstr ""
+
+#: inc/woocommerce.php:486
+msgid "Checkout"
+msgstr ""
+
+#: inc/woocommerce.php:487
+msgid "Wishlist"
+msgstr ""
+
+#: inc/woocommerce.php:488
+msgid "Logout"
+msgstr ""
+
+#: template-parts/content-index.php:19 template-parts/content-search.php:31
+msgid "Read More"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:24 template-parts/content-single.php:18
+#: template-parts/content.php:50
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-page.php:37
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: template-parts/content.php:39
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: template-parts/header-one.php:47 template-parts/header-two.php:37
+msgid "Toggle navigation"
+msgstr ""
+
+#: template-parts/home-categories.php:25
+msgid "Items"
+msgstr ""
+
+#: template-parts/home-slider.php:5
+msgid "All Products"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:55
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:93
+msgid "No products in the cart."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:48
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:28
+#, php-format
+msgid "%s quantity"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:28
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:42
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:44
+#: woocommerce/single-product/product-image.php:70
+msgid "Awaiting product image"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:39
+#, php-format
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/rating.php:40
+#: woocommerce/single-product/rating.php:51
+msgid "Add a review."
+msgstr ""

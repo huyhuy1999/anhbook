@@ -1,0 +1,41 @@
+<wpml-config>
+  <admin-texts>
+    <key name="theme_mods_saleszone-premium">
+      <key name="0"/>
+      <key name="benefits">
+        <key name="0">
+          <key name="benefit_title"/>
+          <key name="benefit_description"/>
+          <key name="benefit_fonts_icon"/>
+          <key name="benefit_image"/>
+        </key>
+        <key name="1">
+          <key name="benefit_title"/>
+          <key name="benefit_description"/>
+          <key name="benefit_fonts_icon"/>
+          <key name="benefit_image"/>
+        </key>
+        <key name="2">
+          <key name="benefit_title"/>
+          <key name="benefit_description"/>
+          <key name="benefit_fonts_icon"/>
+          <key name="benefit_image"/>
+        </key>
+        <key name="3">
+          <key name="benefit_title"/>
+          <key name="benefit_description"/>
+          <key name="benefit_fonts_icon"/>
+          <key name="benefit_image"/>
+        </key>
+      </key>
+      <key name="shop-search-placeholder"/>
+      <key name="header-phone-title"/>
+      <key name="header-phone"/>
+      <key name="footer-before"/>
+      <key name="footer-copyright"/>
+      <key name="footer-copyright-secondary"/>
+      <key name="homepage-after-header"/>
+      <key name="homepage-seo-text"/>
+    </key>
+  </admin-texts>
+</wpml-config>

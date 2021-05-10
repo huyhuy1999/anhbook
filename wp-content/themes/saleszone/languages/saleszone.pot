@@ -1,0 +1,2710 @@
+# Copyright (C) 2019 saleszone
+# This file is distributed under the same license as the saleszone package.
+msgid ""
+msgstr ""
+"Project-Id-Version: saleszone\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 404.php:8, 404.php:13
+msgid "Page not found!"
+msgstr ""
+
+#: 404.php:16
+msgid "Sorry, the page you're looking for doesn't exist!"
+msgstr ""
+
+#: 404.php:20
+msgid "Home"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:71
+msgid "Side panel background color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:79, child-themes/grandstore/functions/default-options.php:137, child-themes/grandstore/functions/default-options.php:179, child-themes/grandstore/functions/default-options.php:287, child-themes/grandstore/functions/default-options.php:353, functions/admin/default-options/default-options-css-variables.php:13, functions/admin/default-options/default-options-css-variables.php:71, functions/admin/default-options/default-options-css-variables.php:113, functions/admin/default-options/default-options-css-variables.php:222, functions/admin/default-options/default-options-css-variables.php:282
+msgid "Text color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:87, functions/admin/default-options/default-options-css-variables.php:21
+msgid "Heading color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:95, functions/admin/default-options/default-options-css-variables.php:29
+msgid "Links color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:103, functions/admin/default-options/default-options-css-variables.php:37
+msgid "Links hover color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:111, child-themes/grandstore/functions/default-options.php:169, child-themes/grandstore/functions/default-options.php:220, functions/admin/default-options/default-options-css-variables.php:45, functions/admin/default-options/default-options-css-variables.php:103, functions/admin/default-options/default-options-css-variables.php:154
+msgid "Border color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:119, functions/admin/default-options/default-options-css-variables.php:53
+msgid "Social icons color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:127, functions/admin/default-options/default-options-css-variables.php:61
+msgid "Social icons hover color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:145, child-themes/grandstore/functions/default-options.php:188, child-themes/grandstore/functions/default-options.php:295, functions/admin/default-options/default-options-css-variables.php:79, functions/admin/default-options/default-options-css-variables.php:122, functions/admin/default-options/default-options-css-variables.php:230
+msgid "Link color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:153, child-themes/grandstore/functions/default-options.php:196, child-themes/grandstore/functions/default-options.php:303, functions/admin/default-options/default-options-css-variables.php:87, functions/admin/default-options/default-options-css-variables.php:130, functions/admin/default-options/default-options-css-variables.php:238
+msgid "Link hover color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:161, child-themes/grandstore/functions/default-options.php:204, child-themes/grandstore/functions/default-options.php:329, functions/admin/default-options/default-options-css-variables.php:95, functions/admin/default-options/default-options-css-variables.php:138, functions/admin/default-options/default-options-css-variables.php:258
+msgid "Background color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:212, functions/admin/default-options/default-options-css-variables.php:146
+msgid "Border top color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:228, child-themes/grandstore/functions/default-options.php:279, functions/admin/default-options/default-options-css-variables.php:162, functions/admin/default-options/default-options-css-variables.php:214
+msgid "Icons color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:236, functions/admin/default-options/default-options-css-variables.php:170
+msgid "Headline panel item background"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:244, functions/admin/default-options/default-options-css-variables.php:178
+msgid "Headline panel item background hover"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:253, functions/admin/default-options/default-options-css-variables.php:188
+msgid "Phone number color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:261, functions/admin/default-options/default-options-css-variables.php:196
+msgid "Phone icon color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:271, functions/admin/default-options/default-options-css-variables.php:206
+msgid "Border bottom color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:311
+msgid "Search button background color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:319, functions/admin/default-options/default-options-css-variables.php:246
+msgid "Header bottom background color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:337, functions/admin/default-options/default-options-css-variables.php:266, functions/admin/default-options/default-options-css-variables.php:340
+msgid "Background hover color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:345, functions/admin/default-options/default-options-css-variables.php:274
+msgid "Background active color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:361, functions/admin/default-options/default-options-css-variables.php:290
+msgid "Text hover color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:369, functions/admin/default-options/default-options-css-variables.php:298
+msgid "Catalog button color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:379, functions/admin/default-options/default-options-css-variables.php:308
+msgid "Hamburger icon color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:387, functions/admin/default-options/default-options-css-variables.php:316
+msgid "Menu background color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:395, functions/admin/default-options/default-options-css-variables.php:324
+msgid "Menu item border color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:403, functions/admin/default-options/default-options-css-variables.php:332
+msgid "Menu item text color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:411
+msgid "Menu item hover color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:419, functions/admin/default-options/default-options-css-variables.php:348
+msgid "Heading background color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:427, functions/admin/default-options/default-options-css-variables.php:356
+msgid "Heading text color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:438, functions/admin/default-options/default-options-css-variables.php:367
+msgid "Theme link color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:446, functions/admin/default-options/default-options-css-variables.php:375
+msgid "Theme link hover color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:455, functions/admin/default-options/default-options-css-variables.php:384
+msgid "Primary button color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:463, functions/admin/default-options/default-options-css-variables.php:392
+msgid "Primary button hover color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:471, functions/admin/default-options/default-options-css-variables.php:400
+msgid "Primary button background"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:479, functions/admin/default-options/default-options-css-variables.php:408
+msgid "Primary button hover background"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:487, functions/admin/default-options/default-options-css-variables.php:416
+msgid "Primary button border"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:495, functions/admin/default-options/default-options-css-variables.php:424
+msgid "Primary button hover border"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:503, functions/admin/default-options/default-options-css-variables.php:432
+msgid "Default button color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:511, functions/admin/default-options/default-options-css-variables.php:440
+msgid "Default button hover color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:519, functions/admin/default-options/default-options-css-variables.php:448
+msgid "Default button background"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:527, functions/admin/default-options/default-options-css-variables.php:456
+msgid "Default button hover background"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:535, functions/admin/default-options/default-options-css-variables.php:464
+msgid "Default button border"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:543, functions/admin/default-options/default-options-css-variables.php:472
+msgid "Default button hover border"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:553, functions/admin/default-options/default-options-css-variables.php:522
+msgid "Panels background color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:561, functions/admin/default-options/default-options-css-variables.php:530
+msgid "Panels heading color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:569, functions/admin/default-options/default-options-css-variables.php:538
+msgid "Panel text color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:579, functions/admin/default-options/default-options-css-variables.php:548
+msgid "Message success color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:587, functions/admin/default-options/default-options-css-variables.php:556
+msgid "Message success border color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:595, functions/admin/default-options/default-options-css-variables.php:564
+msgid "Message error color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:603, functions/admin/default-options/default-options-css-variables.php:572
+msgid "Message error border color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:611, functions/admin/default-options/default-options-css-variables.php:580
+msgid "Message info color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:619, functions/admin/default-options/default-options-css-variables.php:588
+msgid "Message info border color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:629, functions/admin/default-options/default-options-css-variables.php:598
+msgid "Theme main color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:637, functions/admin/default-options/default-options-css-variables.php:614
+msgid "Base site font color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:645, functions/admin/default-options/default-options-css-variables.php:622
+msgid "Secondary font color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:653, functions/admin/default-options/default-options-css-variables.php:630
+msgid "Base border color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:661, functions/admin/default-options/default-options-css-variables.php:638
+msgid "Star rating color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:669, functions/admin/default-options/default-options-css-variables.php:646
+msgid "Star rating empty color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:679, functions/admin/default-options/default-options-css-variables.php:656
+msgid "Form controls border color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:687, functions/admin/default-options/default-options-css-variables.php:664
+msgid "Form controls focused border color"
+msgstr ""
+
+#: child-themes/grandstore/functions/default-options.php:705, child-themes/grandstore/functions/default-options.php:715, functions/admin/default-options/default-options-css-variables.php:690, functions/admin/default-options/default-options-css-variables.php:700
+msgid "Product old price color"
+msgstr ""
+
+#: comments.php:13, premmerce-woocommerce-best-price-guaranteed/found-cheaper-modal.php:78
+msgid "Comments"
+msgstr ""
+
+#: comments.php:46
+msgid "There are no comments yet."
+msgstr ""
+
+#: comments.php:56
+msgid "Comments are closed."
+msgstr ""
+
+#: functions/admin/classes/class-saleszone-admin-page.php:112
+msgid "Select demodata preset"
+msgstr ""
+
+#: functions/admin/classes/class-saleszone-admin-page.php:227
+msgid "This action will delete all your posts, products, terms etc. Are you sure you want to continue?"
+msgstr ""
+
+#: functions/admin/classes/class-saleszone-admin-page.php:228, functions/admin/classes/class-saleszone-import-tool.php:126
+msgid "Import end"
+msgstr ""
+
+#: functions/admin/classes/class-saleszone-admin-page.php:255
+msgid "Getting started"
+msgstr ""
+
+#: functions/admin/classes/class-saleszone-admin-page.php:256, functions/admin/views/tab-main.php:184, functions/admin/views/tab-main.php:191
+msgid "Install demo data"
+msgstr ""
+
+#: functions/admin/classes/class-saleszone-admin-page.php:257
+msgid "Changelog"
+msgstr ""
+
+#: functions/admin/classes/class-saleszone-import-tool.php:117
+msgid "clean DB"
+msgstr ""
+
+#: functions/admin/classes/class-saleszone-import-tool.php:118
+msgid "clean transients"
+msgstr ""
+
+#: functions/admin/classes/class-saleszone-import-tool.php:119
+msgid "Import attributes"
+msgstr ""
+
+#: functions/admin/classes/class-saleszone-import-tool.php:120
+msgid "Import posts"
+msgstr ""
+
+#: functions/admin/classes/class-saleszone-import-tool.php:121
+msgid "Import terms"
+msgstr ""
+
+#: functions/admin/classes/class-saleszone-import-tool.php:122
+msgid "Import options"
+msgstr ""
+
+#: functions/admin/classes/class-saleszone-import-tool.php:123
+msgid "Import bundles"
+msgstr ""
+
+#: functions/admin/classes/class-saleszone-import-tool.php:124
+msgid "Import bundles products"
+msgstr ""
+
+#: functions/admin/classes/class-saleszone-import-tool.php:125
+msgid "Update WPML translations"
+msgstr ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: functions/admin/classes/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: functions/admin/classes/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:386, functions/admin/classes/class-tgm-plugin-activation.php:827, functions/admin/classes/class-tgm-plugin-activation.php:2533, functions/admin/classes/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:387, functions/admin/classes/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:388, functions/admin/classes/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: functions/admin/classes/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: functions/admin/classes/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: functions/admin/classes/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:934, functions/admin/classes/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:1121, functions/admin/classes/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: functions/admin/classes/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: functions/admin/classes/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: functions/admin/classes/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: functions/admin/classes/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: functions/admin/classes/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: functions/admin/classes/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: functions/admin/classes/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: functions/admin/classes/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: functions/admin/classes/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: functions/admin/classes/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: functions/admin/classes/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: functions/admin/classes/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: functions/admin/classes/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:3509, functions/admin/classes/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:3509, functions/admin/classes/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: functions/admin/classes/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: functions/admin/classes/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: functions/admin/classes/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: functions/admin/classes/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: %1$s: Kirki plugin url
+#: functions/admin/customizer/config.php:24
+msgid "To display options for customizing the theme, install and activated the <a href=\"%1$s\">Kirki plugin</a>"
+msgstr ""
+
+#: functions/admin/default-options/default-options-css-variables.php:480
+msgid "Light button color"
+msgstr ""
+
+#: functions/admin/default-options/default-options-css-variables.php:488
+msgid "Light button hover color"
+msgstr ""
+
+#: functions/admin/default-options/default-options-css-variables.php:496
+msgid "Light button background"
+msgstr ""
+
+#: functions/admin/default-options/default-options-css-variables.php:504
+msgid "Light button hover background"
+msgstr ""
+
+#: functions/admin/default-options/default-options-css-variables.php:512
+msgid "Light button border"
+msgstr ""
+
+#: functions/admin/default-options/default-options-css-variables.php:606
+msgid "Theme secondary color"
+msgstr ""
+
+#: functions/admin/default-options/default-options-css-variables.php:674
+msgid "Product price background color"
+msgstr ""
+
+#: functions/admin/default-options/default-options.php:15, functions/admin/default-options/default-options.php:85
+msgid "Search products"
+msgstr ""
+
+#: functions/admin/default-options/default-options.php:57, functions/admin/default-options/default-options.php:127
+msgid "Call us"
+msgstr ""
+
+#: functions/admin/options/colors/colors-body.php:7
+msgid "Body"
+msgstr ""
+
+#: functions/admin/options/colors/colors-body.php:15
+msgid "Links"
+msgstr ""
+
+#: functions/admin/options/colors/colors-body.php:39
+msgid "Buttons"
+msgstr ""
+
+#: functions/admin/options/colors/colors-body.php:63
+msgid "Panels"
+msgstr ""
+
+#: functions/admin/options/colors/colors-body.php:87
+msgid "Message"
+msgstr ""
+
+#: functions/admin/options/colors/colors-body.php:110
+msgid "Form controls"
+msgstr ""
+
+#: functions/admin/options/colors/colors-body.php:133
+msgid "Other"
+msgstr ""
+
+#: functions/admin/options/colors/colors-body.php:156, functions/admin/options/panels.php:19, parts/mobile-menu/mobile-frame.php:5
+msgid "Shop"
+msgstr ""
+
+#: functions/admin/options/colors/colors-footer.php:7, functions/admin/options/colors/colors-footer.php:15, functions/admin/options/panels.php:36
+msgid "Footer"
+msgstr ""
+
+#: functions/admin/options/colors/colors-footer.php:23, functions/admin/options/colors/colors-header.php:48
+msgid "Footer background"
+msgstr ""
+
+#: functions/admin/options/colors/colors-footer.php:49
+msgid "Basement"
+msgstr ""
+
+#: functions/admin/options/colors/colors-header.php:7, functions/admin/options/panels.php:9
+msgid "Header"
+msgstr ""
+
+#: functions/admin/options/colors/colors-header.php:16
+msgid "Header top bar"
+msgstr ""
+
+#: functions/admin/options/colors/colors-header.php:40
+msgid "Header main"
+msgstr ""
+
+#: functions/admin/options/colors/colors-header.php:73
+msgid "Header bottom"
+msgstr ""
+
+#: functions/admin/options/colors/colors-menu.php:7
+msgid "Navigation"
+msgstr ""
+
+#: functions/admin/options/colors/colors-menu.php:15
+msgid "Main navigation"
+msgstr ""
+
+#: functions/admin/options/colors/colors-menu.php:40
+msgid "Off-Canvas Menu"
+msgstr ""
+
+#: functions/admin/options/footer/footer.php:10
+msgid "Before footer"
+msgstr ""
+
+#: functions/admin/options/footer/footer.php:16, functions/admin/options/footer/footer.php:72, functions/admin/options/footer/footer.php:81
+msgid "Add Any HTML or Shortcode here."
+msgstr ""
+
+#: functions/admin/options/footer/footer.php:26
+msgid "Footer main"
+msgstr ""
+
+#: functions/admin/options/footer/footer.php:32
+msgid "Enabled footer main"
+msgstr ""
+
+#: functions/admin/options/footer/footer.php:40
+msgid "Columns"
+msgstr ""
+
+#: functions/admin/options/footer/footer.php:57
+msgid "Footer secondary"
+msgstr ""
+
+#: functions/admin/options/footer/footer.php:63
+msgid "Enabled footer secondary"
+msgstr ""
+
+#: functions/admin/options/footer/footer.php:71
+msgid "Footer copyright left"
+msgstr ""
+
+#: functions/admin/options/footer/footer.php:80
+msgid "Footer copyright right"
+msgstr ""
+
+#: functions/admin/options/header/header.php:9
+msgid "Header layouts"
+msgstr ""
+
+#: functions/admin/options/header/header.php:26
+msgid "Search placeholder"
+msgstr ""
+
+#: functions/admin/options/header/header.php:35
+msgid "Main menu type"
+msgstr ""
+
+#: functions/admin/options/header/header.php:39
+msgid "Tree menu"
+msgstr ""
+
+#: functions/admin/options/header/header.php:40
+msgid "Mega menu"
+msgstr ""
+
+#: functions/admin/options/header/header.php:49
+msgid "header phone"
+msgstr ""
+
+#: functions/admin/options/header/header.php:55
+msgid "Phone title"
+msgstr ""
+
+#: functions/admin/options/header/header.php:63
+msgid "Write each of your numbers with a new line"
+msgstr ""
+
+#: functions/admin/options/header/header.php:64, premmerce-woocommerce-best-price-guaranteed/found-cheaper-modal.php:52, premmerce-woocommerce-best-price-guaranteed/found-cheaper-modal.php:55, premmerce-woocommerce-buy-now/oneclickorder-popup.php:82, woocommerce/myaccount/my-address.php:27, woocommerce/order/order-details-customer.php:25
+msgid "Phone"
+msgstr ""
+
+#: functions/admin/options/header/header.php:72
+msgid "Phone type"
+msgstr ""
+
+#: functions/admin/options/header/header.php:77, functions/admin/options/shop/shop-category.php:72
+msgid "List"
+msgstr ""
+
+#: functions/admin/options/header/header.php:78
+msgid "list horizontal"
+msgstr ""
+
+#: functions/admin/options/header/header.php:79
+msgid "dropdown"
+msgstr ""
+
+#: functions/admin/options/header/header.php:86
+msgid "Show phone icon"
+msgstr ""
+
+#: functions/admin/options/header/header.php:94
+msgid "Icon style"
+msgstr ""
+
+#: functions/admin/options/header/header.php:111
+msgid "Phone icon size"
+msgstr ""
+
+#: functions/admin/options/header/header.php:126
+msgid "Phone title font size"
+msgstr ""
+
+#: functions/admin/options/header/header.php:141
+msgid "Phone font size"
+msgstr ""
+
+#: functions/admin/options/panels.php:14
+msgid "Colors"
+msgstr ""
+
+#: functions/admin/options/panels.php:25
+msgid "Social Icons"
+msgstr ""
+
+#: functions/admin/options/panels.php:30
+msgid "Typography"
+msgstr ""
+
+#: functions/admin/options/shop/shop-benefits.php:7
+msgid "Benefits"
+msgstr ""
+
+#: functions/admin/options/shop/shop-benefits.php:13
+msgid "Shop benefits"
+msgstr ""
+
+#: functions/admin/options/shop/shop-benefits.php:15
+msgid "You can add these block anywhere by using the shortcode [benefits]"
+msgstr ""
+
+#: functions/admin/options/shop/shop-benefits.php:18
+msgid "Benefit"
+msgstr ""
+
+#: functions/admin/options/shop/shop-benefits.php:25
+msgid "Benefit title"
+msgstr ""
+
+#: functions/admin/options/shop/shop-benefits.php:29
+msgid "Benefit description"
+msgstr ""
+
+#: functions/admin/options/shop/shop-benefits.php:33
+msgid "Benefit font awesome icon"
+msgstr ""
+
+#: functions/admin/options/shop/shop-benefits.php:38
+msgid "Benefit image"
+msgstr ""
+
+#: functions/admin/options/shop/shop-category.php:7, functions/widgets/premmerce-recent-post.php:120
+msgid "Category"
+msgstr ""
+
+#: functions/admin/options/shop/shop-category.php:15
+msgid "Options"
+msgstr ""
+
+#: functions/admin/options/shop/shop-category.php:21
+msgid "Products grid per row"
+msgstr ""
+
+#: functions/admin/options/shop/shop-category.php:36
+msgid "Products per page"
+msgstr ""
+
+#: functions/admin/options/shop/shop-category.php:49
+msgid "Display show/hide button for catalog description"
+msgstr ""
+
+#: functions/admin/options/shop/shop-category.php:57
+msgid "Show description below category heading"
+msgstr ""
+
+#: functions/admin/options/shop/shop-category.php:67
+msgid "Default products view"
+msgstr ""
+
+#: functions/admin/options/shop/shop-category.php:71
+msgid "Grid"
+msgstr ""
+
+#: functions/admin/options/shop/shop-category.php:81, functions/admin/options/shop/shop-product.php:7, premmerce-woocommerce-price-tracking/price-spy-table.php:20, premmerce-woocommerce-price-tracking/price-spy-table.php:47, premmerce-woocommerce-waiting-list/user_subscriptions_table.php:20
+msgid "Product"
+msgstr ""
+
+#: functions/admin/options/shop/shop-category.php:88
+msgid "Enabled flipper"
+msgstr ""
+
+#: functions/admin/options/shop/shop-category.php:96
+msgid "Flipper animation"
+msgstr ""
+
+#: functions/admin/options/shop/shop-category.php:100
+msgid "None"
+msgstr ""
+
+#: functions/admin/options/shop/shop-category.php:101
+msgid "Slow"
+msgstr ""
+
+#: functions/admin/options/shop/shop-category.php:102
+msgid "Normal"
+msgstr ""
+
+#: functions/admin/options/shop/shop-category.php:103
+msgid "Fast"
+msgstr ""
+
+#: functions/admin/options/shop/shop-category.php:110
+msgid "Use Ajax For change product variation"
+msgstr ""
+
+#: functions/admin/options/shop/shop-category.php:111
+msgid "The variation will change with a slight delay. (Optimization for page with lot of variable products)"
+msgstr ""
+
+#: functions/admin/options/shop/shop-category.php:119
+msgid "Enabled LazyLoad"
+msgstr ""
+
+#: functions/admin/options/shop/shop-category.php:120
+msgid "Delay loading of images in long web pages. Images outside of viewport wont be loaded before user scrolls to them."
+msgstr ""
+
+#: functions/admin/options/shop/shop-category.php:128
+msgid "Enabled spinner"
+msgstr ""
+
+#: functions/admin/options/shop/shop-category.php:137
+msgid "Purchase block"
+msgstr ""
+
+#: functions/admin/options/shop/shop-category.php:141
+msgid "Show button and quantity field"
+msgstr ""
+
+#: functions/admin/options/shop/shop-category.php:142
+msgid "Show only button"
+msgstr ""
+
+#: functions/admin/options/shop/shop-category.php:143, woocommerce/loop/archive-description.php:14
+msgid "Hide"
+msgstr ""
+
+#: functions/admin/options/shop/shop-category.php:150
+msgid "Enabled quick view"
+msgstr ""
+
+#: functions/admin/options/shop/shop-category.php:158
+msgid "Show sales end date"
+msgstr ""
+
+#: functions/admin/options/shop/shop-category.php:166
+msgid "Show variations"
+msgstr ""
+
+#: functions/admin/options/shop/shop-category.php:175
+msgid "Show short description"
+msgstr ""
+
+#: functions/admin/options/shop/shop-category.php:183
+msgid "Show attributes"
+msgstr ""
+
+#: functions/admin/options/shop/shop-category.php:191
+msgid "Display stock status"
+msgstr ""
+
+#: functions/admin/options/shop/shop-category.php:200
+msgid "Show load more button"
+msgstr ""
+
+#: functions/admin/options/shop/shop-category.php:209, functions/admin/options/shop/shop-product.php:89
+msgid "Button add to cart show icon"
+msgstr ""
+
+#: functions/admin/options/shop/shop-category.php:217
+msgid "Show active filter"
+msgstr ""
+
+#: functions/admin/options/shop/shop-checkout.php:7
+msgid "Checkout"
+msgstr ""
+
+#: functions/admin/options/shop/shop-checkout.php:14
+msgid "List of payer form fields"
+msgstr ""
+
+#: functions/admin/options/shop/shop-checkout.php:15
+msgid "Working only if woocommerce checkout manager is disabled"
+msgstr ""
+
+#: functions/admin/options/shop/shop-checkout.php:19
+msgid "Short"
+msgstr ""
+
+#: functions/admin/options/shop/shop-checkout.php:20
+msgid "Full"
+msgstr ""
+
+#: functions/admin/options/shop/shop-general.php:7
+msgid "General"
+msgstr ""
+
+#: functions/admin/options/shop/shop-general.php:15
+msgid "Enable catalog mode"
+msgstr ""
+
+#: functions/admin/options/shop/shop-general.php:23
+msgid "Site layout"
+msgstr ""
+
+#: functions/admin/options/shop/shop-general.php:28
+msgid "Boxed"
+msgstr ""
+
+#: functions/admin/options/shop/shop-general.php:29
+msgid "Fluid"
+msgstr ""
+
+#: functions/admin/options/shop/shop-general.php:36
+msgid "Boxed layout background"
+msgstr ""
+
+#: functions/admin/options/shop/shop-general.php:45
+msgid "Header and Footer width"
+msgstr ""
+
+#: functions/admin/options/shop/shop-general.php:54
+msgid "Content width"
+msgstr ""
+
+#: functions/admin/options/shop/shop-general.php:64
+msgid "Boxed container width"
+msgstr ""
+
+#: functions/admin/options/shop/shop-homepage.php:7
+msgid "Home page"
+msgstr ""
+
+#: functions/admin/options/shop/shop-homepage.php:14
+msgid "Front page below header"
+msgstr ""
+
+#: functions/admin/options/shop/shop-homepage.php:15
+msgid "Content added to this field will appear beneath the header and above the main content on Front page."
+msgstr ""
+
+#: functions/admin/options/shop/shop-homepage.php:23
+msgid "Home page SEO text"
+msgstr ""
+
+#: functions/admin/options/shop/shop-payment-icons.php:7, functions/admin/options/shop/shop-payment-icons.php:14
+msgid "Payment icons"
+msgstr ""
+
+#: functions/admin/options/shop/shop-payment-icons.php:15
+msgid "This graphical icons that let you show what kind of shopping payments your shop supports. You can add these anywere by using the shortcode [payment-icons]"
+msgstr ""
+
+#: functions/admin/options/shop/shop-payment-icons.php:20
+msgid "American Express"
+msgstr ""
+
+#: functions/admin/options/shop/shop-payment-icons.php:21
+msgid "LiqPay"
+msgstr ""
+
+#: functions/admin/options/shop/shop-payment-icons.php:22
+msgid "MasterCard"
+msgstr ""
+
+#: functions/admin/options/shop/shop-payment-icons.php:23
+msgid "PayPal"
+msgstr ""
+
+#: functions/admin/options/shop/shop-payment-icons.php:24
+msgid "PrivatBank"
+msgstr ""
+
+#: functions/admin/options/shop/shop-payment-icons.php:25
+msgid "Visa"
+msgstr ""
+
+#: functions/admin/options/shop/shop-payment-icons.php:26
+msgid "Webmoney"
+msgstr ""
+
+#: functions/admin/options/shop/shop-product.php:15
+msgid "Product setting"
+msgstr ""
+
+#: functions/admin/options/shop/shop-product.php:21
+msgid "Variations custom select"
+msgstr ""
+
+#: functions/admin/options/shop/shop-product.php:30
+msgid "Show Sales countdown times"
+msgstr ""
+
+#: functions/admin/options/shop/shop-product.php:39, functions/register-sidebar.php:68
+msgid "Product sidebar"
+msgstr ""
+
+#: functions/admin/options/shop/shop-product.php:47
+msgid "Product main attributes"
+msgstr ""
+
+#: functions/admin/options/shop/shop-product.php:57
+msgid "Tabs type"
+msgstr ""
+
+#: functions/admin/options/shop/shop-product.php:61
+msgid "No tabs"
+msgstr ""
+
+#: functions/admin/options/shop/shop-product.php:62
+msgid "Tabs"
+msgstr ""
+
+#: functions/admin/options/shop/shop-product.php:70, functions/custom-types/gallery.php:8, functions/custom-types/gallery.php:21
+msgid "Gallery"
+msgstr ""
+
+#: functions/admin/options/shop/shop-product.php:76
+msgid "Thumbnails type"
+msgstr ""
+
+#: functions/admin/options/shop/shop-product.php:80
+msgid "simple"
+msgstr ""
+
+#: functions/admin/options/shop/shop-product.php:81
+msgid "slides"
+msgstr ""
+
+#: functions/admin/options/shop/shop-product.php:98
+msgid "Add to cart button icon style"
+msgstr ""
+
+#: functions/admin/options/social-icons/social-icons.php:9
+msgid "Follow Icons"
+msgstr ""
+
+#: functions/admin/options/social-icons/social-icons.php:16
+msgid "This is the default settings for the [follow] shortcode."
+msgstr ""
+
+#: functions/admin/options/social-icons/social-icons.php:35
+msgid "Share Icons"
+msgstr ""
+
+#: functions/admin/options/title-tagline/title-tagline.php:8
+msgid "Display site tagline"
+msgstr ""
+
+#: functions/admin/options/title-tagline/title-tagline.php:16
+msgid "Logo Padding"
+msgstr ""
+
+#: functions/admin/options/title-tagline/title-tagline.php:30
+msgid "Logo container max width"
+msgstr ""
+
+#: functions/admin/options/typo/typo.php:8
+msgid "Disable google fonts. Fonts are used by default."
+msgstr ""
+
+#: functions/admin/options/typo/typo.php:16
+msgid "Base theme font"
+msgstr ""
+
+#: functions/admin/views/main.php:13
+msgid "Welcome to"
+msgstr ""
+
+#: functions/admin/views/main.php:17
+msgid "is now installed and ready to be used. We hope the following information will help you. If you want to ask any question or just say hello, you can always contact us. We hope you will enjoy it!"
+msgstr ""
+
+#: functions/admin/views/main.php:27
+msgid "http://saleszone-free.premmerce.com/"
+msgstr ""
+
+#: functions/admin/views/main.php:30
+msgid "http://saleszone.premmerce.com/"
+msgstr ""
+
+#: functions/admin/views/main.php:33, functions/admin/views/tab-main.php:279
+msgid "https://premmerce.com/woocommerce-saleszone-theme-tutorial/"
+msgstr ""
+
+#: functions/admin/views/main.php:34, functions/admin/views/tab-main.php:280
+msgid "SalesZone documentation"
+msgstr ""
+
+#: functions/admin/views/main.php:38
+msgid "Rate This Theme"
+msgstr ""
+
+#: functions/admin/views/main.php:42
+msgid "View Demo"
+msgstr ""
+
+#: functions/admin/views/main.php:46
+msgid "Contact Us"
+msgstr ""
+
+#. translators: %1$s: theme name, %2$s theme version
+#: functions/admin/views/notice.php:11
+msgid "Welcome to %1$s - Version %2$s"
+msgstr ""
+
+#. translators: %1$s: theme name, %2$s link
+#: functions/admin/views/notice.php:19
+msgid "Great to see you around! Thank you for choosing %1$s! To take advantage of the best our theme can offer, please make sure you have visited our <a href=\"%2$s\">Welcome page</a>."
+msgstr ""
+
+#. translators: %s theme name
+#: functions/admin/views/notice.php:30
+msgid "Get started with %s"
+msgstr ""
+
+#: functions/admin/views/tab-import.php:8
+msgid "Installation of the demo data will take from 10 to 15 minutes."
+msgstr ""
+
+#: functions/admin/views/tab-import.php:14
+msgid "Import"
+msgstr ""
+
+#: functions/admin/views/tab-import.php:24
+msgid "For the data installer to work, you need to install and activate WooCommerce"
+msgstr ""
+
+#: functions/admin/views/tab-import.php:49, functions/admin/views/tab-main.php:70
+msgid "Activate WooCommerce"
+msgstr ""
+
+#: functions/admin/views/tab-import.php:51, functions/admin/views/tab-main.php:72
+msgid "Install WooCommerce"
+msgstr ""
+
+#: functions/admin/views/tab-main.php:30
+msgid "Install recommended plugins"
+msgstr ""
+
+#: functions/admin/views/tab-main.php:34
+msgid "WooCommerce is a basic platform for your future store, one of the most popular on the web. After activation WooCommerce will suggest using the WooCommerce Onboarding Wizard which you can either use or skip and continue settings with the Premmerce Setup Wizard."
+msgstr ""
+
+#: functions/admin/views/tab-main.php:37
+msgid "Premmerce is a toolkit of plugins which unites the most essential tools to amplify the WooCommerce core features together with a step-by-step tutorial, called Premmerce Wizard."
+msgstr ""
+
+#: functions/admin/views/tab-main.php:40
+msgid "The Kikri plugin is essential for displaying all options that are available for the theme customization via the WordPress Customizer."
+msgstr ""
+
+#: functions/admin/views/tab-main.php:43
+msgid "With MetaSlider, you can create your own unique, SEO-optimized slideshow in a matter of seconds!"
+msgstr ""
+
+#: functions/admin/views/tab-main.php:100
+msgid "Activate Premmerce"
+msgstr ""
+
+#: functions/admin/views/tab-main.php:102
+msgid "Install Premmerce"
+msgstr ""
+
+#: functions/admin/views/tab-main.php:129
+msgid "Activate MetaSlider"
+msgstr ""
+
+#: functions/admin/views/tab-main.php:131
+msgid "Install MetaSlider"
+msgstr ""
+
+#: functions/admin/views/tab-main.php:158
+msgid "Activate kirki"
+msgstr ""
+
+#: functions/admin/views/tab-main.php:160
+msgid "Install Kikri"
+msgstr ""
+
+#: functions/admin/views/tab-main.php:187
+msgid "You can import the demo content with just one click."
+msgstr ""
+
+#: functions/admin/views/tab-main.php:213
+msgid "Make WooCommerce Settings with Premmerce Wizard"
+msgstr ""
+
+#: functions/admin/views/tab-main.php:216
+msgid "Premmerce Wizard will help you with a full set up of your WooCommerce store."
+msgstr ""
+
+#: functions/admin/views/tab-main.php:221
+msgid "Go to Premmerce Wizard"
+msgstr ""
+
+#: functions/admin/views/tab-main.php:244
+msgid "Customize your theme"
+msgstr ""
+
+#: functions/admin/views/tab-main.php:247
+msgid "All Settings, Theme Options, Widgets and Menus are available via Customize screen. Have a quick look at it or start customization right away!"
+msgstr ""
+
+#: functions/admin/views/tab-main.php:251
+msgid "Go to Customizer"
+msgstr ""
+
+#: functions/admin/views/tab-main.php:273
+msgid "Theme documentation"
+msgstr ""
+
+#: functions/admin/views/tab-main.php:276
+msgid "Need help with setting up and configuring? Please take a look at our documentation page."
+msgstr ""
+
+#: functions/admin/views/upgrade-to-premium.php:10
+msgid "Upgrade to Premium"
+msgstr ""
+
+#: functions/assets.php:41
+msgid "Close (Esc)"
+msgstr ""
+
+#: functions/assets.php:42, premmerce-product-comparison/comparison-btn.php:40, premmerce-product-comparison/comparison-btn.php:73
+msgid "Loading..."
+msgstr ""
+
+#: functions/assets.php:43
+msgid "Previous (Left arrow key)"
+msgstr ""
+
+#: functions/assets.php:44
+msgid "Next (Right arrow key)"
+msgstr ""
+
+#. translators: %curr% current image %total% images
+#: functions/assets.php:46
+msgid "%curr% of %total%"
+msgstr ""
+
+#: functions/custom-types/gallery.php:9
+msgid "Album"
+msgstr ""
+
+#: functions/custom-types/gallery.php:10
+msgid "Add a new"
+msgstr ""
+
+#: functions/custom-types/gallery.php:11
+msgid "Add album"
+msgstr ""
+
+#: functions/custom-types/gallery.php:12
+msgid "Edit album"
+msgstr ""
+
+#: functions/custom-types/gallery.php:13
+msgid "New album"
+msgstr ""
+
+#: functions/custom-types/gallery.php:14
+msgid "View album"
+msgstr ""
+
+#: functions/custom-types/gallery.php:15
+msgid "Search for albums"
+msgstr ""
+
+#: functions/custom-types/gallery.php:16
+msgid "Albums not found"
+msgstr ""
+
+#: functions/custom-types/gallery.php:17
+msgid "No albums found in the trash"
+msgstr ""
+
+#: functions/custom-types/gallery.php:18, parts/gallery/gallery-menu.php:8, parts/gallery/gallery-menu.php:14
+msgid "All albums"
+msgstr ""
+
+#: functions/custom-types/gallery.php:19
+msgid "Archives of albums"
+msgstr ""
+
+#: functions/custom-types/gallery.php:20
+msgid "Paste into album"
+msgstr ""
+
+#: functions/custom-types/gallery.php:22
+msgid "Album list"
+msgstr ""
+
+#: functions/custom-types/gallery.php:53, functions/custom-types/gallery.php:54, functions/custom-types/gallery.php:55
+msgid "Gallery categories"
+msgstr ""
+
+#: functions/custom-types/gallery.php:56
+msgid "All categories gallery"
+msgstr ""
+
+#: functions/custom-types/gallery.php:57
+msgid "Change gallery category"
+msgstr ""
+
+#: functions/custom-types/gallery.php:58
+msgid "View gallery category"
+msgstr ""
+
+#: functions/custom-types/gallery.php:59
+msgid "Update gallery category"
+msgstr ""
+
+#: functions/custom-types/gallery.php:60
+msgid "Add a new category to the gallery"
+msgstr ""
+
+#: functions/custom-types/gallery.php:61
+msgid "Search gallery categories"
+msgstr ""
+
+#: functions/custom-types/gallery.php:62
+msgid "No gallery categories found."
+msgstr ""
+
+#: functions/filters-functions.php:6, woocommerce/loop/archive-description.php:13, woocommerce/loop/archive-description.php:19
+msgid "Read more"
+msgstr ""
+
+#: functions/filters-functions.php:48
+msgid "In stock"
+msgstr ""
+
+#: functions/filters-functions.php:82, premmerce-woocommerce-product-bundles/product-bundles-list.php:154
+msgid "Add to cart"
+msgstr ""
+
+#: functions/filters-functions.php:98
+msgid "Specifications"
+msgstr ""
+
+#: functions/filters-functions.php:111
+msgid "Accessories"
+msgstr ""
+
+#: functions/helpers.php:649
+msgid "Social Login"
+msgstr ""
+
+#: functions/helpers.php:650
+msgid "Unlink account from"
+msgstr ""
+
+#: functions/helpers.php:651
+msgid "Link account with"
+msgstr ""
+
+#: functions/helpers.php:759
+msgid "Your review"
+msgstr ""
+
+#: functions/helpers.php:761, premmerce-woocommerce-buy-now/oneclickorder-popup.php:96
+msgid "Your comment"
+msgstr ""
+
+#: functions/helpers.php:773
+msgid "Save my name, email, and website in this browser for the next time I comment."
+msgstr ""
+
+#: functions/helpers.php:792, functions/helpers.php:832, premmerce-woocommerce-best-price-guaranteed/found-cheaper-modal.php:24, premmerce-woocommerce-best-price-guaranteed/found-cheaper-modal.php:27, premmerce-woocommerce-buy-now/oneclickorder-popup.php:55
+msgid "Name"
+msgstr ""
+
+#: functions/helpers.php:794, functions/helpers.php:834, premmerce-woocommerce-best-price-guaranteed/found-cheaper-modal.php:38, premmerce-woocommerce-best-price-guaranteed/found-cheaper-modal.php:41, premmerce-woocommerce-buy-now/oneclickorder-popup.php:69, premmerce-woocommerce-price-tracking/price-spy-form.php:64, premmerce-woocommerce-waiting-list/product-wait-popup.php:71, woocommerce/order/order-details-customer.php:24
+msgid "Email"
+msgstr ""
+
+#: functions/helpers.php:800, functions/helpers.php:839
+msgid "Submit"
+msgstr ""
+
+#. translators: %s: url
+#: functions/helpers.php:808
+msgid "You must be <a href=%s>logged in</a> to post a comment."
+msgstr ""
+
+#. translators: %s: url
+#. translators: %s: url
+#: functions/helpers.php:848, parts/review/review-form.php:11
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: functions/hooks-functions.php:542
+msgid "More details"
+msgstr ""
+
+#: functions/navs/WalkerMobileStatic.php:12
+msgid "Go back"
+msgstr ""
+
+#: functions/navs/WalkerMobileStatic.php:19
+msgid "Show all"
+msgstr ""
+
+#: functions/register-sidebar.php:13, premmerce-woocommerce-best-price-guaranteed/found-cheaper-modal.php:92, premmerce-woocommerce-buy-now/oneclickorder-popup.php:109, premmerce-woocommerce-price-tracking/price-spy-form.php:78, premmerce-woocommerce-waiting-list/product-wait-popup.php:84, premmerce-woocommerce-wishlist/wishlist-popup.php:117, premmerce-woocommerce-wishlist/wishlist-rename.php:22, woocommerce/single-product/product-image.php:26
+msgid "Close"
+msgstr ""
+
+#: functions/register-sidebar.php:14
+msgid "Show"
+msgstr ""
+
+#: functions/register-sidebar.php:28
+msgid "Blog sidebar"
+msgstr ""
+
+#: functions/register-sidebar.php:29
+msgid "Sidebar on blog pages"
+msgstr ""
+
+#: functions/register-sidebar.php:38
+msgid "Catalog sidebar"
+msgstr ""
+
+#: functions/register-sidebar.php:39
+msgid "Sidebar on Woocommerce Catalog pages"
+msgstr ""
+
+#: functions/register-sidebar.php:48
+msgid "Subcategories sidebar"
+msgstr ""
+
+#: functions/register-sidebar.php:49
+msgid "Sidebar on Woocommerce Subcategories pages"
+msgstr ""
+
+#: functions/register-sidebar.php:58
+msgid "Front Page widgets"
+msgstr ""
+
+#: functions/register-sidebar.php:59
+msgid "Widgets bar on Front page"
+msgstr ""
+
+#: functions/register-sidebar.php:69
+msgid "Sidebar on product pages"
+msgstr ""
+
+#: functions/register-sidebar.php:81, functions/register-sidebar.php:82
+msgid "Footer Column"
+msgstr ""
+
+#: functions/shortcodes/products_viewed.php:76
+msgid "Recently Viewed"
+msgstr ""
+
+#: functions/widgets/premmerce-recent-post.php:18
+msgid "Order by date"
+msgstr ""
+
+#: functions/widgets/premmerce-recent-post.php:19
+msgid "Random order"
+msgstr ""
+
+#: functions/widgets/premmerce-recent-post.php:20
+msgid "Order by comment count"
+msgstr ""
+
+#: functions/widgets/premmerce-recent-post.php:21
+msgid "Order by position"
+msgstr ""
+
+#: functions/widgets/premmerce-recent-post.php:22
+msgid "Order by author"
+msgstr ""
+
+#: functions/widgets/premmerce-recent-post.php:27
+msgid "Premmerce recent post"
+msgstr ""
+
+#: functions/widgets/premmerce-recent-post.php:71, parts/shortcode-templates/premmerce-brands/carousel.php:8, premmerce-woocommerce-brands/brands-widget.php:16
+msgid "View all"
+msgstr ""
+
+#: functions/widgets/premmerce-recent-post.php:94
+msgid "Recent post"
+msgstr ""
+
+#: functions/widgets/premmerce-recent-post.php:107, functions/widgets/premmerce-user-menu.php:58
+msgid "Title"
+msgstr ""
+
+#: functions/widgets/premmerce-recent-post.php:136
+msgid "Order by"
+msgstr ""
+
+#: functions/widgets/premmerce-recent-post.php:151
+msgid "Number of posts to show"
+msgstr ""
+
+#: functions/widgets/premmerce-recent-post.php:169
+msgid "Consider subcategories"
+msgstr ""
+
+#: functions/widgets/premmerce-recent-post.php:181
+msgid "Display post date"
+msgstr ""
+
+#: functions/widgets/premmerce-recent-post.php:193
+msgid "Display post image"
+msgstr ""
+
+#: functions/widgets/premmerce-user-menu.php:12
+msgid "Premmerce woocommerce user menu"
+msgstr ""
+
+#: functions/widgets/premmerce-user-menu.php:52
+msgid "User menu"
+msgstr ""
+
+#: parts/comments/comments-form.php:3
+msgid "Write a comment"
+msgstr ""
+
+#: parts/header/layouts/header-layout_3.php:78, parts/header/layouts/header-layout_5.php:88
+msgid "Catalog"
+msgstr ""
+
+#: parts/header/layouts/header-layout_3.php:115, parts/header/layouts/header-layout_5.php:115, parts/header/parts/header-profile.php:7, parts/mobile-menu/mobile-frame.php:29
+msgid "Profile"
+msgstr ""
+
+#: parts/header/parts/header-phones.php:8
+msgid "Call us:"
+msgstr ""
+
+#: parts/header/parts/header-profile-overlay.php:8, parts/mobile-menu/mobile-profile.php:6, parts/modal/modal-login.php:3, parts/modal/modal-login.php:55, parts/modal/modal-login.php:57, parts/widgets/premmerce-user-menu.php:7, woocommerce/myaccount/form-login-part-login.php:4, woocommerce/myaccount/form-login-part-login.php:47, woocommerce/myaccount/form-login-part-login.php:49, woocommerce/single-product-reviews.php:62
+msgid "Login"
+msgstr ""
+
+#: parts/header/parts/header-profile-overlay.php:15, parts/mobile-menu/mobile-profile.php:13, parts/modal/modal-login.php:78, parts/widgets/premmerce-user-menu.php:14, woocommerce/myaccount/form-login-part-register.php:4, woocommerce/myaccount/form-login-part-register.php:62, woocommerce/myaccount/form-login-part-register.php:64
+msgid "Register"
+msgstr ""
+
+#: parts/integrations/nsl-socauth/nsl-socauth.php:12
+msgid "Sign in with"
+msgstr ""
+
+#: parts/integrations/nsl-socauth/nsl-socauth.php:20
+msgid "Login with Facebook"
+msgstr ""
+
+#: parts/integrations/nsl-socauth/nsl-socauth.php:29, parts/integrations/nsl-socauth/nsl-socauth.php:38
+msgid "Login with Google"
+msgstr ""
+
+#: parts/mobile-menu/mobile-frame.php:17
+msgid "Info"
+msgstr ""
+
+#: parts/mobile-menu/mobile-frame.php:49, parts/mobile-menu/mobile-premmerce-currency-switcher.php:18, parts/mobile-menu/mobile-woocommerce-currency-switcher.php:13
+msgid "Currency"
+msgstr ""
+
+#: parts/mobile-menu/mobile-language-switch-polylang.php:19, parts/mobile-menu/mobile-language-switch-wpml.php:17
+msgid "Language"
+msgstr ""
+
+#: parts/modal/modal-login.php:25, woocommerce/myaccount/form-login-part-login.php:23, woocommerce/myaccount/form-lost-password.php:26
+msgid "Username or email address"
+msgstr ""
+
+#: parts/modal/modal-login.php:34, woocommerce/myaccount/form-login-part-login.php:36, woocommerce/myaccount/form-login-part-register.php:51
+msgid "Password"
+msgstr ""
+
+#: parts/modal/modal-login.php:43
+msgid "Welcome!"
+msgstr ""
+
+#: parts/modal/modal-login.php:45, parts/modal/modal-login.php:91
+msgid "You have successfully logged in as"
+msgstr ""
+
+#: parts/modal/modal-login.php:68, woocommerce/myaccount/form-login-part-login.php:56
+msgid "Remember me"
+msgstr ""
+
+#: parts/modal/modal-login.php:74
+msgid "Don't Have an Account?"
+msgstr ""
+
+#: parts/modal/modal-login.php:83, woocommerce/myaccount/form-login-part-login.php:64
+msgid "Lost your password?"
+msgstr ""
+
+#: parts/posts/content-none.php:4
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: parts/posts/content-none.php:11, woocommerce/loop/no-products-found.php:27
+msgid "No products were found matching your selection."
+msgstr ""
+
+#. translators: %s: search query
+#: parts/posts/layout-right-sidebar.php:12
+msgid "Search Results for: %s"
+msgstr ""
+
+#: parts/posts/layout-right-sidebar.php:14
+msgid "No results found"
+msgstr ""
+
+#: parts/posts/parts/post-bloginfo.php:8
+msgid "Tags"
+msgstr ""
+
+#: parts/posts/parts/post-bloginfo.php:25
+msgid "Share"
+msgstr ""
+
+#: parts/posts/parts/post-navigation.php:7, woocommerce/myaccount/orders.php:92
+msgid "Previous"
+msgstr ""
+
+#: parts/posts/parts/post-navigation.php:13, woocommerce/myaccount/orders.php:96
+msgid "Next"
+msgstr ""
+
+#: parts/posts/parts/post-tools.php:27
+msgid "Posted in:"
+msgstr ""
+
+#: parts/posts/single.php:8
+msgid "Pages:"
+msgstr ""
+
+#: parts/review/review-form.php:6
+msgid "Write a review"
+msgstr ""
+
+#: parts/review/review-form.php:15
+msgid "Your rating"
+msgstr ""
+
+#: parts/review/review-form.php:19
+msgid "out of 5 stars"
+msgstr ""
+
+#: parts/shortcode-templates/premmerce_scheduled_sale_products/premmerce_scheduled_sale_products.php:46, woocommerce/loop/sales-counter-loop.php:17, woocommerce/single-product/sales-counter-single.php:19
+msgid "On sale "
+msgstr ""
+
+#: parts/shortcode-templates/premmerce_scheduled_sale_products/premmerce_scheduled_sale_products.php:59, woocommerce/single-product/sales-counter-single.php:30
+msgid "day"
+msgid_plural "days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: parts/shortcode-templates/premmerce_scheduled_sale_products/premmerce_scheduled_sale_products.php:89
+msgid "Price "
+msgstr ""
+
+#: parts/shortcode-templates/premmerce_scheduled_sale_products/premmerce_scheduled_sale_products.php:102
+msgid "Discount "
+msgstr ""
+
+#: parts/shortcode-templates/premmerce_scheduled_sale_products/premmerce_scheduled_sale_products.php:110
+msgid "Saving "
+msgstr ""
+
+#: premmerce-product-comparison/comparison-btn.php:21, premmerce-product-comparison/comparison-btn.php:61
+msgid "Open in list"
+msgstr ""
+
+#: premmerce-product-comparison/comparison-btn.php:31, premmerce-product-comparison/comparison-btn.php:75
+msgid "Add to compare"
+msgstr ""
+
+#. translators: %s: Category name
+#: premmerce-product-comparison/comparison-page-categories.php:32
+msgid "%s List"
+msgstr ""
+
+#: premmerce-product-comparison/comparison-page-categories.php:41
+msgid "No items to compare"
+msgstr ""
+
+#: premmerce-product-comparison/comparison-page-products.php:43, premmerce-woocommerce-wishlist/wishlist-btn-delete.php:2, premmerce-woocommerce-wishlist/wishlist-page.php:50
+msgid "Delete"
+msgstr ""
+
+#: premmerce-product-comparison/comparison-total.php:22, premmerce-product-comparison/comparison-total.php:37, premmerce-product-comparison/comparison-total.php:46
+msgid "Compare"
+msgstr ""
+
+#: premmerce-search/autocomplete-template.php:32
+msgid "All search results"
+msgstr ""
+
+#: premmerce-woocommerce-best-price-guaranteed/found-cheaper-button.php:15, premmerce-woocommerce-best-price-guaranteed/found-cheaper-modal.php:4
+msgid "Found cheaper?"
+msgstr ""
+
+#: premmerce-woocommerce-best-price-guaranteed/found-cheaper-modal.php:65
+msgid "URL to product"
+msgstr ""
+
+#: premmerce-woocommerce-best-price-guaranteed/found-cheaper-modal.php:68
+msgid "Where you found expensive?"
+msgstr ""
+
+#: premmerce-woocommerce-best-price-guaranteed/found-cheaper-modal.php:101
+msgid "Send"
+msgstr ""
+
+#: premmerce-woocommerce-brands/brands-meta.php:2
+msgid "Brand"
+msgstr ""
+
+#: premmerce-woocommerce-buy-now/oneclickorder-btn.php:13, premmerce-woocommerce-buy-now/oneclickorder-popup.php:11
+msgid "One click order"
+msgstr ""
+
+#: premmerce-woocommerce-buy-now/oneclickorder-popup.php:40
+msgid "Thank you for your order! Our manager will contact you as soon as possible."
+msgstr ""
+
+#: premmerce-woocommerce-buy-now/oneclickorder-popup.php:118
+msgid "Place order"
+msgstr ""
+
+#: premmerce-woocommerce-price-tracking/price-spy-form.php:17, premmerce-woocommerce-price-tracking/price-spy-form.php:24
+msgid "Price is tracked"
+msgstr ""
+
+#: premmerce-woocommerce-price-tracking/price-spy-form.php:30, premmerce-woocommerce-price-tracking/price-spy-form.php:40, premmerce-woocommerce-price-tracking/price-spy-form.php:84
+msgid "Track price"
+msgstr ""
+
+#: premmerce-woocommerce-price-tracking/price-spy-form.php:49
+msgid "Follow the price and we will send you an email once the product price changes"
+msgstr ""
+
+#: premmerce-woocommerce-price-tracking/price-spy-table.php:12
+msgid "Price spy"
+msgstr ""
+
+#: premmerce-woocommerce-price-tracking/price-spy-table.php:23, premmerce-woocommerce-price-tracking/price-spy-table.php:53
+msgid "Price"
+msgstr ""
+
+#: premmerce-woocommerce-price-tracking/price-spy-table.php:26, premmerce-woocommerce-price-tracking/price-spy-table.php:57
+msgid "New price"
+msgstr ""
+
+#: premmerce-woocommerce-price-tracking/price-spy-table.php:34, premmerce-woocommerce-price-tracking/price-spy-table.php:69, premmerce-woocommerce-waiting-list/user_subscriptions_table.php:23
+msgid "Remove"
+msgstr ""
+
+#: premmerce-woocommerce-price-tracking/price-spy-table.php:82
+msgid "You do not spy any product"
+msgstr ""
+
+#: premmerce-woocommerce-product-bundles/product-bundles-list.php:19
+msgid "Frequently bought together"
+msgstr ""
+
+#: premmerce-woocommerce-product-bundles/product-bundles-list.php:137
+msgid "You save"
+msgstr ""
+
+#: premmerce-woocommerce-product-bundles/product-bundles-list.php:165, woocommerce/loop/add-to-cart.php:71, woocommerce/single-product/add-to-cart/variation-add-to-cart-button.php:100
+msgid "View in Cart"
+msgstr ""
+
+#: premmerce-woocommerce-waiting-list/product-wait-button.php:14, premmerce-woocommerce-waiting-list/product-wait-popup.php:12
+msgid "Notify when available"
+msgstr ""
+
+#: premmerce-woocommerce-waiting-list/product-wait-popup.php:31
+msgid "View the list of subscriptions"
+msgstr ""
+
+#: premmerce-woocommerce-waiting-list/product-wait-popup.php:39
+msgid "Remove subscription"
+msgstr ""
+
+#: premmerce-woocommerce-waiting-list/product-wait-popup.php:50, premmerce-woocommerce-waiting-list/user_subscriptions_table.php:9
+msgid "You'll receive a one email when this product arrives in stock"
+msgstr ""
+
+#: premmerce-woocommerce-waiting-list/product-wait-popup.php:91
+msgid "Notify me"
+msgstr ""
+
+#: premmerce-woocommerce-waiting-list/user_subscriptions_table.php:62
+msgid "You do not wait for any product"
+msgstr ""
+
+#: premmerce-woocommerce-wishlist/wishlist-btn-move.php:13
+msgid "Move"
+msgstr ""
+
+#: premmerce-woocommerce-wishlist/wishlist-btn.php:20
+msgid "Add to Wishlist"
+msgstr ""
+
+#: premmerce-woocommerce-wishlist/wishlist-page.php:13
+msgid "Your wishlist is empty"
+msgstr ""
+
+#: premmerce-woocommerce-wishlist/wishlist-page.php:16, premmerce-woocommerce-wishlist/wishlist-page.php:87
+msgid "Once added new items, you'll be able to continue shopping any time and also share the information about the purchase with your friends."
+msgstr ""
+
+#: premmerce-woocommerce-wishlist/wishlist-page.php:42, woocommerce/myaccount/my-address.php:66
+msgid "Edit"
+msgstr ""
+
+#: premmerce-woocommerce-wishlist/wishlist-page.php:84
+msgid "This list is empty"
+msgstr ""
+
+#: premmerce-woocommerce-wishlist/wishlist-popup.php:19
+msgid "Move to another list"
+msgstr ""
+
+#: premmerce-woocommerce-wishlist/wishlist-popup.php:21
+msgid "Add to your list"
+msgstr ""
+
+#: premmerce-woocommerce-wishlist/wishlist-popup.php:34
+msgid "Item successfuly added to your Wishlist!"
+msgstr ""
+
+#: premmerce-woocommerce-wishlist/wishlist-popup.php:48
+msgid "My Wishlist"
+msgstr ""
+
+#: premmerce-woocommerce-wishlist/wishlist-popup.php:59
+msgid "Select a list"
+msgstr ""
+
+#: premmerce-woocommerce-wishlist/wishlist-popup.php:90
+msgid "Create a new list"
+msgstr ""
+
+#: premmerce-woocommerce-wishlist/wishlist-popup.php:125
+msgid "Go to wishlist"
+msgstr ""
+
+#: premmerce-woocommerce-wishlist/wishlist-popup.php:132
+msgid "Add to list"
+msgstr ""
+
+#: premmerce-woocommerce-wishlist/wishlist-popup.php:167, premmerce-woocommerce-wishlist/wishlist-total.php:18, premmerce-woocommerce-wishlist/wishlist-total.php:33, premmerce-woocommerce-wishlist/wishlist-total.php:41, woocommerce/myaccount/dashboard.php:71, woocommerce/myaccount/navigation.php:32
+msgid "Wishlist"
+msgstr ""
+
+#: premmerce-woocommerce-wishlist/wishlist-rename.php:3
+msgid "Edit your list"
+msgstr ""
+
+#: premmerce-woocommerce-wishlist/wishlist-rename.php:10
+msgid "List name"
+msgstr ""
+
+#: premmerce-woocommerce-wishlist/wishlist-rename.php:26
+msgid "Edit list"
+msgstr ""
+
+#: premmerce-woocommerce-wishlist/wishlist-rename.php:37
+msgid "Rename"
+msgstr ""
+
+#: woocommerce/cart/cart-cross-sells.php:6
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:36, woocommerce/cart/cart-modal.php:63
+msgid "Continue Shopping"
+msgstr ""
+
+#. translators: %1$s: cart contents count
+#: woocommerce/cart/cart-frame.php:15
+msgid "Items in your cart (%s)"
+msgstr ""
+
+#: woocommerce/cart/cart-frame.php:28, woocommerce/cart/cart-modal.php:48
+msgid "Update cart"
+msgstr ""
+
+#: woocommerce/cart/cart-header.php:26, woocommerce/cart/cart-header.php:44, woocommerce/cart/cart-header.php:73, woocommerce/cart/cart-header.php:114, woocommerce/cart/cart-modal.php:17
+msgid "Cart"
+msgstr ""
+
+#: woocommerce/cart/cart-header.php:129
+msgid "Empty"
+msgstr ""
+
+#: woocommerce/cart/cart-modal.php:53
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: woocommerce/cart/cart-modal.php:73
+msgid "View cart"
+msgstr ""
+
+#: woocommerce/cart/cart-modal.php:82, woocommerce/cart/proceed-to-checkout-button.php:19
+msgid "Proceed to checkout"
+msgstr ""
+
+#: woocommerce/cart/cart-product.php:38
+msgid "Price: "
+msgstr ""
+
+#: woocommerce/cart/cart-product.php:50, woocommerce/global/quantity-input.php:23
+msgid "Max quantity: "
+msgstr ""
+
+#. translators: %1$s: stock quantity
+#: woocommerce/cart/cart-product.php:65
+msgid "More than %1$s items available only on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart-product.php:67
+msgid "Available on backorder"
+msgstr ""
+
+#. translators: $s shipping destination.
+#: woocommerce/cart/cart-shipping.php:62
+msgid "Estimate for %s."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:63
+msgid "Change address"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:65
+msgid "This is only an estimate. Prices will be updated during checkout."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:71
+msgid "Enter your address to view shipping options."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:73
+msgid "There are no shipping methods available. Please ensure that your address has been entered correctly, or contact us if you need any help."
+msgstr ""
+
+#. translators: $s shipping destination.
+#: woocommerce/cart/cart-shipping.php:76
+msgid "No shipping options were found for %s."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:77
+msgid "Enter a different address"
+msgstr ""
+
+#: woocommerce/cart/cart-summary.php:25
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart-summary.php:113, woocommerce/checkout/form-coupon.php:26
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart-summary.php:117, woocommerce/checkout/form-coupon.php:28
+msgid "Apply coupon"
+msgstr ""
+
+#: woocommerce/cart/cart-summary.php:127, woocommerce/cart/cart-totals.php:33, woocommerce/checkout/review-order.php:45
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:20
+msgid "Order summary"
+msgstr ""
+
+#. translators: %s: estimated for
+#: woocommerce/cart/cart-totals.php:82
+msgid "(estimated for %s)"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:105, woocommerce/checkout/review-order.php:90
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:28
+msgid "Calculate shipping"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:39, woocommerce/cart/shipping-calculator.php:42
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:60, woocommerce/cart/shipping-calculator.php:66, woocommerce/cart/shipping-calculator.php:69, woocommerce/cart/shipping-calculator.php:79
+msgid "State / County"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:70
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:88, woocommerce/cart/shipping-calculator.php:90, woocommerce/myaccount/my-address.php:22, woocommerce/order/order-details-customer.php:20
+msgid "City"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:98, woocommerce/cart/shipping-calculator.php:100
+msgid "Postcode / ZIP"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:107, woocommerce/checkout/payment.php:44
+msgid "Update totals"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:22
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:24
+msgid "Billing details"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:50
+msgid "Create an account?"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:21
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:71
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:79
+msgid "Edit cart"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:19
+msgid "Have a coupon?"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:19
+msgid "Click here to enter your code"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:19
+msgid "Returning customer?"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:27
+msgid "Click here to login"
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:39
+msgid "Sorry, it seems that there are no available payment methods for your location. Please contact us if you require assistance or wish to make alternate arrangements."
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:26
+msgid "Ship to a different address?"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:59
+msgid "Additional information"
+msgstr ""
+
+#: woocommerce/checkout/payment.php:32
+msgid "Sorry, it seems that there are no available payment methods for your state. Please contact us if you require assistance or wish to make alternate arrangements."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:32
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:42
+msgid "Since your browser does not support JavaScript, or it is disabled, please ensure you click the %1$sUpdate Totals%2$s button before placing your order. You may be charged more than the amount stated above if you fail to do so."
+msgstr ""
+
+#: woocommerce/checkout/shipping.php:6
+msgid "Delivery method"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:28
+msgid "Unfortunately your order cannot be processed as the originating bank/merchant has declined your transaction. Please attempt your purchase again."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:30
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:32
+msgid "My account"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:44, woocommerce/checkout/thankyou.php:72
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:24
+msgid "Min quantity: "
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:25
+msgid "Numbers only"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:33
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:43
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:22
+msgid "Sort by"
+msgstr ""
+
+#: woocommerce/loop/pagination.php:51
+msgid "Load more"
+msgstr ""
+
+#: woocommerce/loop/quick-view-button.php:9
+msgid "Quick View"
+msgstr ""
+
+#. translators: 1: first result  2: total results
+#: woocommerce/loop/result-count.php:25
+msgid "Showing %1$d&nbsp; of %2$d results"
+msgstr ""
+
+#. translators: %d: total results
+#: woocommerce/loop/result-count.php:35
+msgid "Showing the single result <span class=\"hidden\">%d<span>"
+msgid_plural "Showing all <i class=\"content__hinfo-number\">%d</i> results"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: first result 2: last result 3: total results
+#: woocommerce/loop/result-count.php:48
+msgctxt "with first and last result"
+msgid "Showing the single result <span class=\"hidden\">%1$d %2$d %3$d<span>"
+msgid_plural "Showing %1$d&nbsp;&ndash;&nbsp;%2$d of %3$d results"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: %s: days count
+#: woocommerce/loop/sales-counter-loop.php:22
+msgid "%s day"
+msgid_plural "%s days"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: %s: hours count
+#: woocommerce/loop/sales-counter-loop.php:28
+msgid "%s hour"
+msgid_plural "%s hours"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: %s: minutes count
+#: woocommerce/loop/sales-counter-loop.php:34
+msgid "%s minute"
+msgid_plural "%s minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: %1$s: current user name , %2$s : Log out url
+#: woocommerce/myaccount/dashboard.php:24
+msgid "Hello %1$s (not %1$s? <a href=\"%2$s\">Log out</a>)"
+msgstr ""
+
+#. translators: %1$s: recent orders url, %2$s : shipping and billing addresses url, %3$s edit password url
+#: woocommerce/myaccount/dashboard.php:39
+msgid "From your account dashboard you can view your <a href=\"%1$s\">recent orders</a>, manage your <a href=\"%2$s\">shipping and billing addresses</a> and <a href=\"%3$s\">edit your password and account details</a>."
+msgstr ""
+
+#: woocommerce/myaccount/downloads.php:33
+msgid "No downloads available yet."
+msgstr ""
+
+#: woocommerce/myaccount/downloads.php:37, woocommerce/myaccount/orders.php:108
+msgid "Go shop"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:22
+msgid "Personal information"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:39, woocommerce/myaccount/my-address.php:17, woocommerce/order/order-details-customer.php:15
+msgid "First name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:50, woocommerce/myaccount/my-address.php:18, woocommerce/order/order-details-customer.php:16
+msgid "Last name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:61
+msgid "Display name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:72, woocommerce/myaccount/form-login-part-register.php:37, woocommerce/myaccount/my-address.php:26
+msgid "Email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:77, woocommerce/myaccount/form-edit-account.php:128, woocommerce/myaccount/form-edit-account.php:131
+msgid "Save changes"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:88
+msgid "Password change"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:101
+msgid "Current password (leave blank to leave unchanged)"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:111
+msgid "New password (leave blank to leave unchanged)"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:121
+msgid "Confirm new password"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:15, woocommerce/myaccount/my-address.php:34, woocommerce/myaccount/my-address.php:39, woocommerce/order/order-details-customer.php:35
+msgid "Billing address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:15, woocommerce/myaccount/my-address.php:35, woocommerce/order/order-details-customer.php:60
+msgid "Shipping address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:45, woocommerce/myaccount/form-edit-address.php:47
+msgid "Save address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login-part-register.php:23
+msgid "Username"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:21
+msgid "Lost your password? Please enter your username or email address. You will receive a link to create a new password via email."
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:35, woocommerce/myaccount/form-lost-password.php:37
+msgid "Reset password"
+msgstr ""
+
+#: woocommerce/myaccount/form-reset-password.php:28
+msgid "Enter a new password below."
+msgstr ""
+
+#: woocommerce/myaccount/form-reset-password.php:40
+msgid "New password"
+msgstr ""
+
+#: woocommerce/myaccount/form-reset-password.php:54
+msgid "Re-enter new password"
+msgstr ""
+
+#: woocommerce/myaccount/form-reset-password.php:68, woocommerce/myaccount/form-reset-password.php:69
+msgid "Save"
+msgstr ""
+
+#: woocommerce/myaccount/lost-password-confirmation.php:13
+msgid "Password reset email has been sent."
+msgstr ""
+
+#: woocommerce/myaccount/lost-password-confirmation.php:16
+msgid "A password reset email has been sent to the email address on file for your account, but may take several minutes to show up in your inbox. Please wait at least 10 minutes before attempting another reset."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:19, woocommerce/order/order-details-customer.php:17
+msgid "Company"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:20, woocommerce/order/order-details-customer.php:18
+msgid "Address"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:21, woocommerce/order/order-details-customer.php:19
+msgid "Additional address"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:23, woocommerce/order/order-details-customer.php:21
+msgid "State"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:24, woocommerce/order/order-details-customer.php:22
+msgid "Postcode"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:25, woocommerce/order/order-details-customer.php:23
+msgid "Country"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:47
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: woocommerce/myaccount/orders.php:21
+msgid "Order history"
+msgstr ""
+
+#: woocommerce/myaccount/orders.php:52
+msgctxt "hash before order number"
+msgid "#"
+msgstr ""
+
+#. translators: 1: formatted order total 2: total order items
+#: woocommerce/myaccount/orders.php:64
+msgid "%1$s for %2$s item"
+msgid_plural "%1$s for %2$s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/myaccount/orders.php:104
+msgid "No order has been made yet."
+msgstr ""
+
+#. translators: %1$s: order number %2$s: order date %3$s: order status
+#: woocommerce/myaccount/view-order.php:36
+msgid "Order #%1$s was placed on %2$s and is currently %3$s."
+msgstr ""
+
+#: woocommerce/myaccount/view-order.php:48
+msgid "Order updates"
+msgstr ""
+
+#: woocommerce/myaccount/view-order.php:55
+msgid "l jS \o\f F Y, h:ia"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:21
+msgid "Region"
+msgstr ""
+
+#: woocommerce/order/order-details.php:34
+msgid "Order details"
+msgstr ""
+
+#: woocommerce/order/order-downloads.php:19
+msgid "List of files to download"
+msgstr ""
+
+#: woocommerce/order/order-downloads.php:51
+msgid "Download"
+msgstr ""
+
+#: woocommerce/order/order-downloads.php:65
+msgid "Never"
+msgstr ""
+
+#: woocommerce/order/order-overview.php:6
+msgid "Order number:"
+msgstr ""
+
+#: woocommerce/order/order-overview.php:16
+msgid "Date:"
+msgstr ""
+
+#: woocommerce/order/order-overview.php:27
+msgid "Email:"
+msgstr ""
+
+#: woocommerce/order/order-overview.php:38
+msgid "Total:"
+msgstr ""
+
+#: woocommerce/order/order-overview.php:49
+msgid "Payment method:"
+msgstr ""
+
+#: woocommerce/order/order-overview.php:61
+msgid "Note:"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:47
+msgid "Be the first to review this item. Share your rating and review so that other customers can decide if this is the right item for them."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:58
+msgid "Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variation.php:19
+msgid "Sorry, this product is unavailable. Please choose a different combination."
+msgstr ""
+
+#: woocommerce/single-product/attributes-list.php:11, woocommerce/single-product/product-attributes.php:26
+msgid "Weight"
+msgstr ""
+
+#: woocommerce/single-product/attributes-list.php:19, woocommerce/single-product/product-attributes.php:41
+msgid "Dimensions"
+msgstr ""
+
+#: woocommerce/single-product/labels.php:7
+msgid "Hit"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:30
+msgid "SKU:"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:32
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:38
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/meta.php:40
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/rating.php:32
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product/related.php:22
+msgid "Related products"
+msgstr ""
+
+#. translators: %s: start count
+#: woocommerce/single-product/review.php:39
+msgid "%s out of 5 stars"
+msgstr ""
+
+#: woocommerce/single-product/review.php:53
+msgid "Your review is awaiting approval"
+msgstr ""
+
+#: woocommerce/single-product/review.php:67
+msgid "Reply to this post"
+msgstr ""

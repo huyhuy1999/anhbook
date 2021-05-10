@@ -1,0 +1,111 @@
+.wpopinfo-wrap .wpopsection .dashicons {
+	margin-top: -4px;
+	vertical-align: middle;
+}
+
+.wpopinfo-wrap .nav-tab {
+	font-size: 16px;
+}
+
+.wpopinfo-wrap h1 {
+	font-size: 2em;
+}
+
+.wpopinfo-wrap h3 {
+	font-size: 1.2em;
+}
+
+.wpopinfo-wrap .wpopsection-useful-plugins,
+.wpopinfo-wrap .wpopsection-upgrade-to-pro,
+.wpopinfo-wrap .wpopsection-demo-content {
+	margin-top: 50px;
+}
+
+.wpopinfo-wrap .tab-upgrade-to-pro {
+	background-color: #bf2424;
+	background-color: #159614;
+	color: #FFF;
+}
+
+.wpopinfo-wrap .wp-badge {
+	background-image: url('../images/logo-wpoperation.png');
+	background-color: #FFF;
+	background-size: 159px auto;
+	background-position: center;
+}
+
+.wpopinfo-wrap .quick-links a {
+	margin-right: 5px;
+}
+
+.wpopinfo-notice .btn-dismiss {
+	margin-left: 20px;
+}
+
+.wpopinfo-wrap .plugin-list {
+	list-style-position: inside;
+	list-style-type: disc;
+}
+
+.compare-table table {
+	width: 100%;
+}
+.compare-table table thead tr {
+	background: #169516;
+}
+.compare-table table tbody tr td.db-width-perticular,
+.compare-table table thead tr th:first-child{
+	text-align: left;
+	padding-left: 20px;
+	font-weight: 600;
+}
+.compare-table table th {
+	text-align: left;
+	padding: 10px;
+	color: #ffff;
+}
+.compare-table table tbody tr:nth-of-type(even){
+	background-color: rgba(0,0,0,.05);
+}
+.compare-table table tbody tr td{
+	text-align: left;
+	padding: 10px;
+}
+.compare-table table tbody tr:nth-of-type(even) td:nth-child(2){
+	background-color: rgba(0,0,0,.02);
+}
+.compare-table table tbody tr td:nth-child(2){
+	background-color: #f5f5f5;
+}
+
+
+.compare-table table tbody tr td.dashicons-before {
+
+	overflow: hidden;
+	text-indent: -9999px;
+}
+
+.compare-table table tbody tr td.dashicons-before:before {
+	color: #333;
+	text-indent: 0;
+	float: left;
+}
+
+.compare-table table tbody tr td.dashicons-yes:before {
+	color: #fff;
+	background:#169516;
+	margin-right: 5px;
+	border-radius: 50%;
+}
+.compare-table table tbody tr td.dashicons-no-alt:before {
+	background:#FF5722;
+	color: #fff;
+	margin-right: 5px;
+	border-radius: 50%;
+}
+
+.compare-table table tbody tr .dashicons, .compare-table table tbody tr .dashicons-before:before{
+	width: 15px;
+	height: 15px;
+	font-size: 15px;
+}

@@ -1,0 +1,7 @@
+{% for currency in currencies %}
+<li class="mobile-nav__item wcml_currency_switcher">
+    <a class="mobile-nav__link" rel="{{ currency }}">
+        {{ get_formatted_price( currency, format )|raw }}
+    </a>
+</li>
+{% endfor %}

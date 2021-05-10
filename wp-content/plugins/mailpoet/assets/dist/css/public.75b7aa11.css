@@ -1,0 +1,36 @@
+input.parsley-success, select.parsley-success, textarea.parsley-success { background-color: #dff0d8; border: 1px solid #d6e9c6; color: #468847; }
+
+input.parsley-error, select.parsley-error, textarea.parsley-error { background-color: #f2dede; border: 1px solid #eed3d7; color: #b94a48; }
+
+.parsley-errors-list { color: #b94a48; font-size: .9em; line-height: .9em; list-style-type: none; margin: 2px 0 3px; opacity: 0; padding: 0; transition: all .3s ease-in; }
+
+.parsley-errors-list.filled { opacity: 1; }
+
+.parsley-errors-list { margin-top: 8px; }
+
+.parsley-required, .parsley-custom-error-message { color: #b94a48; }
+
+/* labels */
+.mailpoet_text_label, .mailpoet_textarea_label, .mailpoet_select_label, .mailpoet_radio_label, .mailpoet_checkbox_label, .mailpoet_list_label, .mailpoet_date_label { display: block; }
+
+/* form loading */
+.mailpoet_form_sending .mailpoet_form_loading { display: block; }
+
+.mailpoet_form_sending .mailpoet_submit { display: none; }
+
+.mailpoet_form_loading { display: none; text-align: center; width: 30px; }
+
+.mailpoet_form_loading > span { animation: mailpoet-bouncedelay 1.4s infinite ease-in-out both; background-color: #5b5b5b; border-radius: 100%; display: inline-block; height: 5px; width: 5px; }
+
+.mailpoet_form_loading .mailpoet_bounce1 { animation-delay: -.32s; }
+
+.mailpoet_form_loading .mailpoet_bounce2 { animation-delay: -.16s; margin: 0 7px; }
+
+.mailpoet_captcha_form .mailpoet_validate_success { color: #468847; }
+
+.mailpoet_captcha_form .mailpoet_validate_error { color: #b94a48; }
+
+.mailpoet_captcha_update { cursor: pointer; }
+
+@keyframes mailpoet-bouncedelay { 0%, 80%, 100% { transform: scale(0); }
+  40% { transform: scale(1); } }

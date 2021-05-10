@@ -1,0 +1,413 @@
+# Copyright (C) 2018 ThemeFarmer
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ThemeFarmer Companion 1.0\n"
+"Report-Msgid-Bugs-To: https://www.themefarmer.com \n"
+"POT-Creation-Date: 2018-03-16 14:44+0530\n"
+"PO-Revision-Date: 2018-03-16 14:44+0530\n"
+"Last-Translator: themefarmer.com \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: themefarmer-companion.php:106
+msgid "Home"
+msgstr ""
+
+#: themefarmer-companion.php:119
+msgid "Blog"
+msgstr ""
+
+#: fields/font-selector/class/class-themefarmer-field-font-selector.php:49
+msgid "Default"
+msgstr ""
+
+#: fields/font-selector/class/class-themefarmer-field-font-selector.php:51
+msgid "Standard Fonts"
+msgstr ""
+
+#: fields/font-selector/class/class-themefarmer-field-font-selector.php:58
+msgid "Google Fonts"
+msgstr ""
+
+#: fields/range/class/class-themefarmer-field-range.php:79
+msgid "Click to set font for desktop devices"
+msgstr ""
+
+#: fields/range/class/class-themefarmer-field-range.php:82
+msgid "Click to set font for tablet devices"
+msgstr ""
+
+#: fields/range/class/class-themefarmer-field-range.php:85
+msgid "Click to set font for mobile devices"
+msgstr ""
+
+#: fields/repeater/class/class-themefarmer-field-repeater.php:86
+#: fields/repeater/class/class-themefarmer-field-repeater.php:117
+msgid "Remove Field"
+msgstr ""
+
+#: fields/repeater/class/class-themefarmer-field-repeater.php:123
+msgid "Add New"
+msgstr ""
+
+#: fields/repeater/class/class-themefarmer-field-repeater.php:169
+#: fields/repeater/class/class-themefarmer-field-repeater.php:288
+msgid "Select Image"
+msgstr ""
+
+#: fields/repeater/class/class-themefarmer-field-repeater.php:194
+msgid "Select Page"
+msgstr ""
+
+#: fields/repeater/class/class-themefarmer-field-repeater.php:219
+#: inc/functions.php:11
+msgid "Remove Icon"
+msgstr ""
+
+#: fields/repeater/class/class-themefarmer-field-repeater.php:232
+msgid "Remove"
+msgstr ""
+
+#: fields/repeater/class/class-themefarmer-field-repeater.php:235
+msgid "Add Item"
+msgstr ""
+
+#: inc/companion-customizer.php:7
+msgid "Frontpage Options"
+msgstr ""
+
+#: inc/companion-customizer.php:15
+msgid "Slider"
+msgstr ""
+
+#: inc/companion-customizer.php:21 inc/companion-customizer.php:150
+#: inc/companion-customizer.php:205
+msgid "Services"
+msgstr ""
+
+#: inc/companion-customizer.php:27
+msgid "About"
+msgstr ""
+
+#: inc/companion-customizer.php:33 inc/companion-customizer.php:322
+msgid "Team"
+msgstr ""
+
+#: inc/companion-customizer.php:38 inc/companion-customizer.php:426
+#: inc/companion-customizer.php:471
+msgid "Testimonials"
+msgstr ""
+
+#: inc/companion-customizer.php:43 inc/companion-customizer.php:508
+#: inc/companion-customizer.php:554
+msgid "Brands"
+msgstr ""
+
+#: inc/companion-customizer.php:48 theme-scope/scope-customizer.php:6
+#: theme-scope/scope-customizer.php:29
+msgid "Contact Us"
+msgstr ""
+
+#: inc/companion-customizer.php:53
+msgid "Social Links"
+msgstr ""
+
+#: inc/companion-customizer.php:68
+msgid "Super Perfect Business Theme"
+msgstr ""
+
+#: inc/companion-customizer.php:69
+msgid "Super Flexible to customize, Super Fast, Quickly build your site."
+msgstr ""
+
+#: inc/companion-customizer.php:78 inc/companion-customizer.php:87
+msgid "View Details"
+msgstr ""
+
+#: inc/companion-customizer.php:80 inc/companion-customizer.php:89
+#: inc/companion-customizer.php:129
+msgid "Buy Now"
+msgstr ""
+
+#: inc/companion-customizer.php:96 inc/companion-customizer.php:99
+msgid "Slide"
+msgstr ""
+
+#: inc/companion-customizer.php:103 inc/companion-customizer.php:213
+#: inc/companion-customizer.php:390 inc/companion-customizer.php:483
+msgid "Title"
+msgstr ""
+
+#: inc/companion-customizer.php:108 inc/companion-customizer.php:169
+#: inc/companion-customizer.php:218 inc/companion-customizer.php:275
+#: inc/companion-customizer.php:341 inc/companion-customizer.php:398
+#: inc/companion-customizer.php:445 inc/companion-customizer.php:491
+#: inc/companion-customizer.php:527 theme-scope/scope-customizer.php:24
+msgid "Description"
+msgstr ""
+
+#: inc/companion-customizer.php:113 inc/companion-customizer.php:285
+#: inc/companion-customizer.php:385 inc/companion-customizer.php:478
+#: inc/companion-customizer.php:561
+msgid "Image"
+msgstr ""
+
+#: inc/companion-customizer.php:118 inc/companion-customizer.php:128
+#: inc/companion-customizer.php:232
+msgid "Button Text"
+msgstr ""
+
+#: inc/companion-customizer.php:119 inc/companion-customizer.php:181
+#: inc/companion-customizer.php:189 inc/companion-customizer.php:197
+#: inc/companion-customizer.php:233 inc/companion-customizer.php:354
+#: inc/companion-customizer.php:366
+msgid "Read More"
+msgstr ""
+
+#: inc/companion-customizer.php:123 inc/companion-customizer.php:133
+#: inc/companion-customizer.php:403
+msgid "Button URL"
+msgstr ""
+
+#: inc/companion-customizer.php:157 inc/companion-customizer.php:263
+#: inc/companion-customizer.php:329 inc/companion-customizer.php:433
+#: inc/companion-customizer.php:515 theme-scope/scope-customizer.php:13
+msgid "Heading"
+msgstr ""
+
+#: inc/companion-customizer.php:162
+msgid "Services Description"
+msgstr ""
+
+#: inc/companion-customizer.php:178
+msgid "Awesome Design"
+msgstr ""
+
+#: inc/companion-customizer.php:179 inc/companion-customizer.php:187
+#: inc/companion-customizer.php:195
+msgid ""
+"Lorem ipsum dolor sit amet elit do, consectetur adipiscing, sed eiusmod "
+"tempor incididunt ut labore et dolore magna aliqua."
+msgstr ""
+
+#: inc/companion-customizer.php:186
+msgid "Responsive Design"
+msgstr ""
+
+#: inc/companion-customizer.php:194
+msgid "Drag & Drop"
+msgstr ""
+
+#: inc/companion-customizer.php:208
+msgid "Service"
+msgstr ""
+
+#: inc/companion-customizer.php:223
+msgid "Color"
+msgstr ""
+
+#: inc/companion-customizer.php:227
+msgid "Icon"
+msgstr ""
+
+#: inc/companion-customizer.php:237
+msgid "Select Feature Detail Page"
+msgstr ""
+
+#: inc/companion-customizer.php:238
+msgid "Leave it unselected if you want to enter custom link"
+msgstr ""
+
+#: inc/companion-customizer.php:242
+msgid "Details page  URL"
+msgstr ""
+
+#: inc/companion-customizer.php:243
+msgid "Leave it blank if you have to selected Details page above"
+msgstr ""
+
+#: inc/companion-customizer.php:256
+msgid "About Us"
+msgstr ""
+
+#: inc/companion-customizer.php:268
+msgid "About Us Description"
+msgstr ""
+
+#: inc/companion-customizer.php:296
+msgid "Background"
+msgstr ""
+
+#: inc/companion-customizer.php:308
+msgid "Youtube Video ID"
+msgstr ""
+
+#: inc/companion-customizer.php:334
+msgid "Team Description"
+msgstr ""
+
+#: inc/companion-customizer.php:351
+msgid "Jhon Doe"
+msgstr ""
+
+#: inc/companion-customizer.php:353
+msgid "Software Developer"
+msgstr ""
+
+#: inc/companion-customizer.php:363
+msgid "Jene Doe"
+msgstr ""
+
+#: inc/companion-customizer.php:365
+msgid "Website Designer"
+msgstr ""
+
+#: inc/companion-customizer.php:377
+msgid "Members"
+msgstr ""
+
+#: inc/companion-customizer.php:380
+msgid "Member"
+msgstr ""
+
+#: inc/companion-customizer.php:394 inc/companion-customizer.php:456
+#: inc/companion-customizer.php:463
+msgid "Designation"
+msgstr ""
+
+#: inc/companion-customizer.php:408
+msgid "Social Items"
+msgstr ""
+
+#: inc/companion-customizer.php:409
+msgid "Add Icon"
+msgstr ""
+
+#: inc/companion-customizer.php:438
+msgid "Testimonials Description"
+msgstr ""
+
+#: inc/companion-customizer.php:455 inc/companion-customizer.php:462
+msgid "Testimonial Heading"
+msgstr ""
+
+#: inc/companion-customizer.php:457 inc/companion-customizer.php:464
+msgid "Testimonial Description"
+msgstr ""
+
+#: inc/companion-customizer.php:474
+msgid "Testimonial"
+msgstr ""
+
+#: inc/companion-customizer.php:487
+msgid "Subtitle"
+msgstr ""
+
+#: inc/companion-customizer.php:495
+msgid "Link"
+msgstr ""
+
+#: inc/companion-customizer.php:520
+msgid "Brands Description"
+msgstr ""
+
+#: inc/companion-customizer.php:557
+msgid "Brand"
+msgstr ""
+
+#: inc/companion-customizer.php:565
+msgid "Brand URL"
+msgstr ""
+
+#: inc/functions.php:7
+msgid "Close media panel"
+msgstr ""
+
+#: inc/functions.php:8
+msgid "Select Icon"
+msgstr ""
+
+#: inc/functions.php:9
+msgid "Search Icon"
+msgstr ""
+
+#: inc/functions.php:28
+msgid ""
+"Your email has been sent successfully. We will get in touch soon, Thank You."
+msgstr ""
+
+#: inc/functions.php:30
+msgid "Error while sending email"
+msgstr ""
+
+#: inc/functions.php:52
+msgid "Email is invalid"
+msgstr ""
+
+#: inc/functions.php:68
+msgid "Your Name"
+msgstr ""
+
+#: inc/functions.php:68
+msgid "Name is required"
+msgstr ""
+
+#: inc/functions.php:71
+msgid "Email Address"
+msgstr ""
+
+#: inc/functions.php:71
+msgid "Email is required"
+msgstr ""
+
+#: inc/functions.php:71
+msgid "You have not given a correct e-mail address"
+msgstr ""
+
+#: inc/functions.php:74
+msgid "Subject"
+msgstr ""
+
+#: inc/functions.php:77
+msgid "Message"
+msgstr ""
+
+#: inc/functions.php:77
+msgid "Message is required"
+msgstr ""
+
+#: inc/functions.php:81
+msgid "Send Message"
+msgstr ""
+
+#: theme-scope/scope-customizer.php:36
+msgid "Form Heading"
+msgstr ""
+
+#: theme-scope/scope-customizer.php:41
+msgid "Office Address"
+msgstr ""
+
+#: theme-scope/scope-customizer.php:48
+msgid "Location Label"
+msgstr ""
+
+#: theme-scope/scope-customizer.php:60
+msgid "Location Details"
+msgstr ""
+
+#: theme-scope/scope-customizer.php:65
+msgid "Give us a Call"
+msgstr ""
+
+#: theme-scope/scope-customizer.php:72
+msgid "Contact Info Label"
+msgstr ""
+
+#: theme-scope/scope-customizer.php:84
+msgid "Contact Info Details"
+msgstr ""

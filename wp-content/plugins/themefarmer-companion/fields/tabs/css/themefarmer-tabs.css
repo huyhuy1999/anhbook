@@ -1,0 +1,38 @@
+.themefarmer-tabs {
+    background-color: #FFF;
+    width: 110%;
+    display: table;
+    margin-left: -12px;
+    margin-top: -14px;
+}
+
+.themefarmer-tab-control {
+    border-bottom: 2px solid #b1b1b1;
+    text-align: center;
+    display: table-cell;
+    height: 100%;
+    border-right: 1px solid #b1b1b1;
+}
+.themefarmer-tab-control:last-child{
+	border-right:none;
+}
+
+.themefarmer-tab-control.active {
+    border-bottom: 2px solid #2196F3;
+}
+
+.themefarmer-tab-control label{
+	padding: 10px;
+	display: block;
+
+}
+
+/*.themefarmer-tabs-col-2 .themefarmer-tab-control {
+    width: 50%;
+}
+.themefarmer-tabs-col-3 .themefarmer-tab-control {
+    width: 33%;
+}
+.themefarmer-tabs-col-4 .themefarmer-tab-control {
+    width: 25%;
+}*/

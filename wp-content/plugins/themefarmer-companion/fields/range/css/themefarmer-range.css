@@ -1,0 +1,155 @@
+.themefarmer-range-slider-controls{
+	display: none;
+}
+.themefarmer-range-slider-controls.active{
+	display: inline;
+}
+.themefarmer-range-slider{
+    background-color: rgba(0,0,0,.1);
+    height: 5px;
+    width: 67%;
+    padding: 0;
+    cursor: pointer;
+    outline: none;
+    -webkit-transition: background .5s;
+    -moz-transition: background .5s;
+    transition: background .5s;
+    -webkit-appearance: none;
+}
+
+input[type=range] {
+    -webkit-appearance: none;
+    border: 0px solid white;
+    width: 65%;
+    display: inline;
+}
+input[type=range]::-webkit-slider-runnable-track {
+    width: 65%;
+    height: 5px;
+    background: #ddd;
+    border: none;
+    border-radius: 3px;
+}
+input[type=range]::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    border: none;
+    height: 16px;
+    width: 16px;
+    border-radius: 50%;
+    background: #0085ba;
+    margin-top: -6px;
+}
+input[type=range]:focus {
+    outline: none;
+}
+input[type=range]:focus::-webkit-slider-runnable-track {
+    background: #ccc;
+}
+
+input[type=range]::-moz-range-track {
+    width: 65%;
+    height: 5px;
+    background: #ddd;
+    border: none;
+    border-radius: 3px;
+}
+input[type=range]::-moz-range-thumb {
+    border: none;
+    height: 16px;
+    width: 16px;
+    border-radius: 50%;
+    background: goldenrod;
+}
+
+/*hide the outline behind the border*/
+input[type=range]:-moz-focusring{
+    outline: 1px solid white;
+    outline-offset: -1px;
+}
+
+input[type=range]::-ms-track {
+    width: 65%;
+    height: 5px;
+    
+    /*remove bg colour from the track, we'll use ms-fill-lower and ms-fill-upper instead */
+    background: transparent;
+    
+    /*leave room for the larger thumb to overflow with a transparent border */
+    border-color: transparent;
+    border-width: 6px 0;
+
+    /*remove default tick marks*/
+    color: transparent;
+}
+input[type=range]::-ms-fill-lower {
+    background: #777;
+    border-radius: 10px;
+}
+input[type=range]::-ms-fill-upper {
+    background: #ddd;
+    border-radius: 10px;
+}
+input[type=range]::-ms-thumb {
+    border: none;
+    height: 16px;
+    width: 16px;
+    border-radius: 50%;
+    background: #0085ba;
+}
+input[type=range]:focus::-ms-fill-lower {
+    background: #888;
+}
+input[type=range]:focus::-ms-fill-upper {
+    background: #ccc;
+}
+
+.themefarmer-range-value {
+    width: 50px !important;
+    border-radius: 5px;
+    font-size: 12px;
+}
+
+span.range-slider-reset {
+    color: #c7c7c6;
+    transition: .2s ease;
+    cursor: pointer;
+}
+
+.range-slider-reset i {
+    font-size: 15px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+span.range-slider-reset:hover {
+    color: #F06292;
+}
+
+
+.themefarmer-device-controls {
+    float: right;
+    margin-bottom: 10px;
+}
+
+.themefarmer-device-controls i.dashicons {
+    font-size: 14px;
+    height: auto !important;
+}
+
+.themefarmer-device-controls button {
+	background-color: #dddddd;
+	border: 1px solid #CFD8DC;
+	padding: 5px !important;
+	height: 26px !important;
+	cursor: pointer;
+	outline: none;
+}
+
+.themefarmer-device-controls button.active {
+    color: #0085ba;
+    border-bottom: 2px solid #008ec2;
+}
+
+.themefarmer-responsive-range .customize-control-title {
+    float: left;
+}

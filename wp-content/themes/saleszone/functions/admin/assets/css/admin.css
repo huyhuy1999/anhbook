@@ -1,0 +1,64 @@
+[data-import-preloader="show"]{
+    float: none;
+    visibility: visible;
+    display: inline-block;
+}
+
+.saleszone {
+    /*max-width: 960px;*/
+    margin-right: 20px;
+}
+
+.saleszone__header {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.saleszone__header-main {
+    padding-right: 30px;
+}
+
+.saleszone__logo {
+    background: rgba(30,39,49,.95)!important;
+    display: block;
+    padding: 30px 51px;
+}
+
+.saleszone__header-aside {
+    margin-left: auto;
+}
+
+.saleszone__desc {
+    font-size: 18px!important;
+    line-height: 1.6em!important;
+    max-width: 960px;
+}
+
+.saleszone__desc-buttons {
+    margin-top: 15px;
+}
+
+.saleszone__desc-buttons > * {
+    margin-bottom: 7px!important;
+}
+
+.saleszone__title {
+    font-size: 42px!important;
+    line-height: 47px!important;
+    margin-bottom: 20px!important;
+}
+
+.saleszone__logo {
+
+}
+
+.saleszone__body {
+
+}
+
+.saleszone-changelog {
+    box-shadow: 1px 1px 5px 1px rgba(0,0,0,.1);
+    margin: 15px 10px;
+    background: #fff;
+    padding: 30px;
+}

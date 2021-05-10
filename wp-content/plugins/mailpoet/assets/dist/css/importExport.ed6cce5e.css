@@ -1,0 +1,79 @@
+.mailpoet_hidden, .mailpoet_validation_error { display: none; }
+
+span.mailpoet_mailchimp-key-status.mailpoet_mailchimp-ok:before { color: #0e90d2; content: '\2713'; margin-left: 15px; }
+
+span.mailpoet_mailchimp-key-status.mailpoet_mailchimp-error:before { color: #900; content: '\2717'; margin-left: 15px; }
+
+span.select2-search.select2-search--dropdown { display: none !important; }
+
+.subscribers_data { overflow: auto; }
+
+.subscribers_data table { width: auto; }
+
+.subscribers_data td { padding: .5em; }
+
+.subscribers_data > table > thead > tr > th > span { width: 15em !important; }
+
+.subscribers_data > table > tbody > td { padding: .5em; }
+
+.subscribers_data > table > tbody > tr:nth-child(odd) { background: #f9f9f9; }
+
+.subscribers_data th:first-child, .subscribers_data td:first-child { padding: 0 1em !important; text-align: center !important; vertical-align: inherit !important; width: 10em !important; }
+
+.subscribers_data .mailpoet_header { font-weight: 600; text-decoration: underline; text-transform: uppercase; }
+
+.mailpoet_data_match { color: #0e90d2; margin-left: .25em; }
+
+.mailpoet_import_error, .mailpoet_validation_error { color: #900; }
+
+tr.mailpoet_segments > td > a { margin-left: 15px; }
+
+.mailpoet_data_manipulation_step { align-items: flex-start; display: flex; flex-direction: column; }
+
+.mailpoet_data_manipulation_step > * { margin: 10px 0; }
+
+.mailpoet_data_manipulation_step .mailpoet_label_description { padding: 20px 10px 20px 0; width: 310px; }
+
+.mailpoet_data_manipulation_step .mailpoet_import_select_segment { align-items: center; display: flex; flex-direction: row; }
+
+.mailpoet_data_manipulation_step .mailpoet_import_select_segment label { align-items: center; display: flex; flex-direction: row; }
+
+.mailpoet_data_manipulation_step .mailpoet_import_select_segment .mailpoet_create_segment { margin-left: 15px; }
+
+.mailpoet_data_manipulation_step .mailpoet_update_existing_subscribers { align-items: center; display: flex; flex-direction: row; }
+
+.mailpoet_data_manipulation_step .mailpoet_update_existing_subscribers label { margin-right: 4px; }
+
+.mailpoet_data_manipulation_step .mailpoet_update_existing_subscribers .mailpoet_label_description { font-weight: 400; }
+
+.mailpoet_subscribers_data_parse_results_details_show, .mailpoet_create_segment { cursor: pointer; }
+
+.mailpoet_import_validation_step { align-items: flex-start; display: flex; flex-direction: column; width: 600px; }
+
+.mailpoet_import_validation_step .mailpoet_import_step_buttons { margin-top: 40px; }
+
+.mailpoet_import_validation_step h2, .mailpoet_import_validation_step .mailpoet_last_sent { margin-bottom: 40px; }
+
+.mailpoet_import_validation_step .mailpoet_import_block p { font-weight: bold; }
+
+.mailpoet_method_selection_step { align-items: flex-start; display: flex; flex-direction: column; }
+
+.mailpoet_method_selection_step > * { margin: 10px 0; }
+
+.mailpoet_method_selection_step .mailpoet_import_selection_form { display: flex; flex-direction: row; flex-wrap: nowrap; }
+
+.mailpoet_method_selection_step .mailpoet_import_selection_form > * { margin-right: 2.5em; }
+
+.mailpoet_method_selection_step .mailpoet_import_heading { color: #23282d; font-size: 14px; font-weight: 600; line-height: 1.3; }
+
+.mailpoet_method_selection_step .description { color: #666; font-size: 13px; font-style: italic; font-weight: 600; margin: 2px 0 5px; }
+
+.mailpoet_method_selection_step .mailpoet_import_paste_texts { margin-right: 25px; width: 300px; }
+
+.mailpoet_method_selection_step .mailpoet_import_method_paste { display: flex; flex-direction: row; flex-wrap: nowrap; }
+
+.mailpoet_method_selection_step .mailpoet_import_mailchimp .mailpoet_mailchimp_key, .mailpoet_method_selection_step .mailpoet_import_mailchimp .mailpoet_mailchimp_lists { align-items: center; display: flex; flex-wrap: nowrap; margin-bottom: 40px; }
+
+.mailpoet_method_selection_step .mailpoet_import_mailchimp .mailpoet_mailchimp_key_input { align-items: center; display: flex; margin-right: 20px; }
+
+.mailpoet_method_selection_step .mailpoet_import_mailchimp .mailpoet_import_heading { display: block; width: 300px; }

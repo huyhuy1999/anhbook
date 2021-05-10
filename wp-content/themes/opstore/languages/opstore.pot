@@ -1,0 +1,1261 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Opstore\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-07-25 17:04+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.2"
+
+#. %s: theme name
+#: inc/welcome/class.info.php:122 inc/welcome/class.info.php:124
+#, php-format
+msgid "%s info"
+msgstr ""
+
+#. %s: tab name
+#: inc/welcome/class.info.php:239
+#, php-format
+msgid "%s() method does not exist."
+msgstr ""
+
+#: inc/core/opstore-functions.php:281
+msgid "&larr;"
+msgstr ""
+
+#: inc/core/opstore-functions.php:282
+msgid "&rarr;"
+msgstr ""
+
+#: inc/widgets/widget-contact-info.php:24
+msgid "*Opstore Contact Info"
+msgstr ""
+
+#: inc/widgets/widget-product-search.php:20
+msgid "*Opstore Product Search"
+msgstr ""
+
+#: inc/widgets/widget-social-icons.php:24
+msgid "*Opstore Social Icons"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:62
+msgid ", "
+msgstr ""
+
+#: 404.php:20
+msgid "404"
+msgstr ""
+
+#: inc/core/opstore-functions.php:153
+msgid "404 Error"
+msgstr ""
+
+#: inc/woocommerce.php:396 inc/woocommerce.php:407
+#, php-format
+msgid "<span class=\"onsale discount-wrap\">- %s</span>"
+msgstr ""
+
+#: inc/widgets/widget-contact-info.php:25
+msgid "A widget that shows contact information"
+msgstr ""
+
+#: inc/widgets/widget-social-icons.php:25
+msgid "A widget that shows social icons."
+msgstr ""
+
+#: inc/widgets/widget-product-search.php:18
+msgid "About search product in specific categories."
+msgstr ""
+
+#: woocommerce/wishlist-view-bkp.php:259 woocommerce/wishlist-view.php:222
+msgid "Add the selected products to the cart"
+msgstr ""
+
+#: inc/woocommerce.php:105
+msgid "Add to Wishlist"
+msgstr ""
+
+#: inc/widgets/widget-init.php:19 inc/widgets/widget-init.php:29
+#: inc/widgets/widget-init.php:39 inc/widgets/widget-init.php:49
+msgid "Add widgets here."
+msgstr ""
+
+#: woocommerce/wishlist-view-bkp.php:188 woocommerce/wishlist-view.php:143
+#, php-format
+msgid "Added on : %s"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:61
+msgid "Additional Settings"
+msgstr ""
+
+#: inc/config/plugins-config.php:71
+msgid "AJAX Login and Registration modal popup"
+msgstr ""
+
+#: inc/widgets/widget-product-search.php:73
+msgid "All Categories"
+msgstr ""
+
+#: inc/extras/opstore-breadcrumb.php:33
+msgid "Archive by category"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:664
+msgid "Archive Page Sidebar"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:796
+msgid "Archive Post Excerpt Length"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:774
+#: inc/customizer/opstore-customizer.php:786
+msgid "Archive Settings"
+msgstr ""
+
+#: inc/extras/opstore-breadcrumb.php:91
+msgid "Articles posted by "
+msgstr ""
+
+#: woocommerce/wishlist-view-bkp.php:267 woocommerce/wishlist-view-bkp.php:313
+#: woocommerce/wishlist-view.php:230 woocommerce/wishlist-view.php:276
+msgid "Ask for an estimate"
+msgstr ""
+
+#: 404.php:30
+msgid "Back to the homepage"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:360
+msgid "Background Color"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:563
+msgid "Banner Height"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:517
+msgid "Banner Settings"
+msgstr ""
+
+#: inc/core/opstore-functions.php:122
+msgid "Blog"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:867
+msgid "Bottom Footer Settings"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:223
+msgid "Bottom Header Options"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:596
+msgid "Breadcrumb Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:39
+msgid "Buy Now"
+msgstr ""
+
+#: inc/core/opstore-functions.php:226
+msgid "By"
+msgstr ""
+
+#: woocommerce/wishlist-view-bkp.php:45
+msgid "Cancel"
+msgstr ""
+
+#: inc/core/opstore-hooks.php:314 layouts/header/header-layout2.php:44
+msgid "cart"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:269
+msgid "Cart Icon"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:90
+msgid "Cart subtotal"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:550
+msgid "Center"
+msgstr ""
+
+#: inc/welcome/info.php:130
+msgid "Child Theme"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:677
+#: inc/customizer/opstore-customizer.php:931
+msgid "Choose Archive Page Sidebar"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:734
+msgid "Choose Default Sidebar"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:205
+msgid "Choose Header Layout"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:150
+msgid "Choose Webpage Layout"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:696
+#: inc/customizer/opstore-customizer.php:754
+#: inc/customizer/opstore-customizer.php:951
+msgid "Choose Widget Area "
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:968
+msgid "Circle"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:856
+msgid "Column no."
+msgstr ""
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/customizer/customizer.php:40
+msgid "Compare"
+msgstr ""
+
+#: inc/config/plugins-config.php:64
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/welcome/info.php:112 inc/welcome/info.php:115
+msgid "Contact Support"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:400
+msgid "Content Type"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:39
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:893
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/welcome/info.php:77
+msgid "Customize"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:625
+msgid "Delimitor"
+msgstr ""
+
+#: inc/welcome/info.php:28 inc/welcome/info.php:90 inc/welcome/info.php:94
+msgid "Demo Content"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:89
+#: inc/customizer/opstore-customizer.php:117
+#: inc/customizer/opstore-customizer.php:239
+#: inc/customizer/opstore-customizer.php:532
+#: inc/customizer/opstore-customizer.php:612
+#: inc/customizer/opstore-customizer.php:652
+#: inc/customizer/opstore-customizer.php:1049
+msgid "Disable"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:986
+msgid "Discount"
+msgstr ""
+
+#: inc/welcome/class.info.php:129
+msgid "Dismiss this notice"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:99
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: woocommerce/wishlist-view-bkp.php:32
+msgid "Edit title"
+msgstr ""
+
+#: inc/config/plugins-config.php:58
+msgid "Elementor"
+msgstr ""
+
+#: inc/widgets/widget-contact-info.php:60
+msgid "Email"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:435
+msgid "Email Address"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:88
+#: inc/customizer/opstore-customizer.php:116
+#: inc/customizer/opstore-customizer.php:238
+#: inc/customizer/opstore-customizer.php:531
+#: inc/customizer/opstore-customizer.php:611
+#: inc/customizer/opstore-customizer.php:651
+#: inc/customizer/opstore-customizer.php:1048
+msgid "Enable"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:608
+msgid "Enable / Disable Option"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:1045
+msgid "Enable / Disable Sticky Cart"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:528
+msgid "Enable/Disable Banner"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:113
+msgid "Enable/Disable Preloader"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:85
+msgid "Enable/Disable Smooth Scroll"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:648
+msgid "Enable/Disable Sticky Sidebar"
+msgstr ""
+
+#. %s: social media names
+#: inc/customizer/opstore-customizer.php:473
+#, php-format
+msgid "Enter URL for %s"
+msgstr ""
+
+#: inc/core/opstore-functions.php:78 inc/widgets/widget-social-icons.php:45
+#: inc/widgets/widget-social-icons.php:104
+msgid "Facebook"
+msgstr ""
+
+#: inc/widgets/widget-contact-info.php:55
+msgid "Fax"
+msgstr ""
+
+#: inc/welcome/info.php:99
+msgid "Fix Image Sizes"
+msgstr ""
+
+#: inc/welcome/info.php:102
+msgid "Fix Images Now"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:820
+msgid "Footer Settings"
+msgstr ""
+
+#. %d: counter
+#: inc/widgets/widget-init.php:63
+#, php-format
+msgid "Footer Widget Area %d"
+msgstr ""
+
+#: inc/welcome/info.php:132
+msgid ""
+"For advanced theme customization, it is recommended to use child theme "
+"rather than modifying the theme file itself. Using this approach, you wont "
+"lose the customization after theme update."
+msgstr ""
+
+#: inc/welcome/class.info.php:418
+msgid "Free"
+msgstr ""
+
+#: inc/welcome/info.php:29
+msgid "Free vs Pro"
+msgstr ""
+
+#: woocommerce/wishlist-view-bkp.php:172 woocommerce/wishlist-view.php:128
+msgid "Free!"
+msgstr ""
+
+#: inc/core/opstore-functions.php:203
+msgid "gallery-images"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:15
+msgid "General Settings"
+msgstr ""
+
+#: inc/welcome/class.info.php:129
+#, php-format
+msgid "Get started with %1$s"
+msgstr ""
+
+#: inc/welcome/info.php:25
+msgid "Getting Started"
+msgstr ""
+
+#: search.php:56
+msgid "Go back to Home"
+msgstr ""
+
+#: inc/widgets/widget-social-icons.php:70
+msgid "Google Plus"
+msgstr ""
+
+#: inc/widgets/widget-social-icons.php:119
+msgid "Google plus"
+msgstr ""
+
+#: inc/welcome/info.php:114
+msgid ""
+"Got theme support question or found bug or got some feedbacks? Best place to "
+"ask your query is the dedicated Support forum for the theme."
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:178
+#: inc/customizer/opstore-customizer.php:189
+msgid "Header Layouts"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:171
+msgid "Header Settings"
+msgstr ""
+
+#: inc/widgets/widget-init.php:37
+msgid "Header widget Area"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:564
+msgid "Height of banner in px."
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:255
+#: inc/customizer/opstore-customizer.php:273
+#: inc/customizer/opstore-customizer.php:290
+#: inc/customizer/opstore-customizer.php:307
+#: inc/customizer/opstore-customizer.php:342
+#: inc/customizer/opstore-customizer.php:845
+#: inc/customizer/opstore-customizer.php:882
+#: inc/customizer/opstore-sanitize.php:35
+msgid "Hide"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:878
+msgid "Hide / Show Footer Icons"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:841
+msgid "Hide / Show Top Footer"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:338
+msgid "Hide / Show Top header"
+msgstr ""
+
+#: inc/extras/opstore-breadcrumb.php:24 inc/extras/opstore-breadcrumb.php:27
+msgid "Home"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:73
+msgid "Homepage Animations"
+msgstr ""
+
+#. %1$s: blog info
+#: inc/welcome/info.php:21
+#, php-format
+msgid ""
+"Howdy %1$s, we would like to thank you for installing and activating %2$s "
+"theme for your precious site. All of the features provided by the theme are "
+"now ready to use. Here, we have gathered all of the essential details and "
+"helpful links for you and your better experience with %2$s. Once again, "
+"Thanks for using our theme!"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://wpoperation.com/"
+msgstr ""
+
+#. URI of the theme
+msgid "https://wpoperation.com/themes/opstore/"
+msgstr ""
+
+#: inc/woocommerce.php:494
+msgid "Hurry Up! Offer ends in:"
+msgstr ""
+
+#: inc/welcome/info.php:101
+msgid ""
+"If you have already images on your site then all image might not align as "
+"expected, to fix this there is handy plugin which will help you"
+msgstr ""
+
+#: inc/welcome/info.php:180
+msgid ""
+"If you want more advanced features then you can upgrade to the premium "
+"version of the theme."
+msgstr ""
+
+#: woocommerce/wishlist-view-bkp.php:179 woocommerce/wishlist-view.php:134
+msgid "In Stock"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:397
+msgid "Info"
+msgstr ""
+
+#: inc/widgets/widget-contact-info.php:40
+#: inc/widgets/widget-social-icons.php:40
+msgid "Info Title"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:496
+msgid "Inner Page Settings"
+msgstr ""
+
+#: inc/core/opstore-functions.php:87 inc/widgets/widget-social-icons.php:55
+#: inc/widgets/widget-social-icons.php:113
+msgid "Instagram"
+msgstr ""
+
+#: inc/woocommerce.php:442
+msgid "Instock"
+msgstr ""
+
+#: inc/customizer/opstore-custom-controls.php:59
+msgid "Instruction"
+msgstr ""
+
+#: template-parts/content-none.php:45
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/welcome/info.php:133
+msgid "Learn More"
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:82
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:548
+msgid "Left"
+msgstr ""
+
+#: inc/widgets/widget-init.php:27
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/core/opstore-functions.php:84 inc/widgets/widget-social-icons.php:110
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/widgets/widget-social-icons.php:65
+msgid "Linkedin"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:69
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: woocommerce/add-to-wishlist-button.php:21
+msgid "loading"
+msgstr ""
+
+#: inc/widgets/widget-contact-info.php:45
+msgid "Location"
+msgstr ""
+
+#: layouts/header/header-layout1.php:43 layouts/header/header-layout2.php:140
+msgid "Login"
+msgstr ""
+
+#: inc/config/plugins-config.php:98
+msgid "Mailpoet"
+msgstr ""
+
+#: inc/welcome/class.info.php:348 inc/welcome/class.info.php:389
+msgid "Manage Plugins"
+msgstr ""
+
+#: 404.php:26
+msgid "May be the page you are searching is removed or you may have mistyped."
+msgstr ""
+
+#: woocommerce/wishlist-view-bkp.php:200 woocommerce/wishlist-view.php:155
+msgid "Move"
+msgstr ""
+
+#: layouts/header/header-layout1.php:50 layouts/header/header-layout2.php:149
+msgid "My Account"
+msgstr ""
+
+#: template-parts/single/layout-one.php:59
+msgid "Next page"
+msgstr ""
+
+#: inc/widgets/widget-fields.php:106
+msgid "No file chosen"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:98
+msgid "No products in the cart."
+msgstr ""
+
+#: woocommerce/wishlist-view-bkp.php:242 woocommerce/wishlist-view.php:205
+msgid "No products were added to the wishlist"
+msgstr ""
+
+#: 404.php:21
+msgid "Not Found"
+msgstr ""
+
+#: template-parts/content-none.php:15
+msgid "Nothing Found"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:398
+msgid "Notification"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:411
+msgid "Notification Text"
+msgstr ""
+
+#. 1: title.
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: 404.php:23
+msgid "Oops. The page you were looking for does not exist."
+msgstr ""
+
+#: inc/config/plugins-config.php:24 inc/welcome/info.php:93
+#: inc/welcome/info.php:148
+msgid "Operation Demo Importer"
+msgstr ""
+
+#. Name of the theme
+msgid "Opstore"
+msgstr ""
+
+#: inc/config/plugins-config.php:38
+msgid "Opstore Elementor Addons"
+msgstr ""
+
+#. Name of the template
+msgid "Opstore Fullwidth"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Opstore is complete perfect WordPress theme for E-Commerce,Shops and Small E-"
+"Business Websites. The Theme is fully compatible with Elementor Drag and "
+"Drop Builder Plugin so that you can easily create your website as perfered "
+"Layout. The Theme has other extra features such as Multiple Header Option,"
+"Sidebar Options,Unlimited Color options,Custom Widgets and Many More. Theme "
+"is carefully designed to focus the need and features for ecommerce websites."
+msgstr ""
+
+#: woocommerce/wishlist-view-bkp.php:179 woocommerce/wishlist-view.php:134
+msgid "Out of Stock"
+msgstr ""
+
+#: inc/woocommerce.php:450
+msgid "Out of stock"
+msgstr ""
+
+#: inc/extras/opstore-breadcrumb.php:99
+msgid "Page"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:719
+msgid "Page / Post Sidebar"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:503
+msgid "Page Banner Settings"
+msgstr ""
+
+#: template-parts/content.php:50 template-parts/single/layout-one.php:53
+msgid "Pages:"
+msgstr ""
+
+#: inc/widgets/widget-contact-info.php:50
+msgid "Phone"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:423
+msgid "Phone No."
+msgstr ""
+
+#: inc/core/opstore-functions.php:90 inc/widgets/widget-social-icons.php:60
+#: inc/widgets/widget-social-icons.php:116
+msgid "Pinterest"
+msgstr ""
+
+#: inc/widgets/widget-product-search.php:33
+msgid "Placeholder"
+msgstr ""
+
+#: inc/welcome/info.php:59 inc/welcome/info.php:123
+msgid ""
+"Please check our full documentation for detailed information on how to setup "
+"and customize the theme."
+msgstr ""
+
+#. %s: post author.
+#: inc/template-tags.php:45
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. %s: post date.
+#: inc/template-tags.php:29
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#. 1: list of categories.
+#: inc/template-tags.php:65
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/extras/opstore-breadcrumb.php:87
+msgid "Posts tagged"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:102
+msgid "Preloader option"
+msgstr ""
+
+#: inc/welcome/class.info.php:419
+msgid "Premium"
+msgstr ""
+
+#: template-parts/single/layout-one.php:60
+msgid "Previous page"
+msgstr ""
+
+#: functions.php:49
+msgid "Primary"
+msgstr ""
+
+#: woocommerce/wishlist-view-bkp.php:215 woocommerce/wishlist-view.php:170
+msgid "Private"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:1011
+msgid "Product Column"
+msgstr ""
+
+#: inc/welcome/class.info.php:417
+msgid "Product Features"
+msgstr ""
+
+#: inc/woocommerce.php:519
+msgid "product image"
+msgstr ""
+
+#: woocommerce/wishlist-view-bkp.php:82 woocommerce/wishlist-view.php:48
+msgid "Product Name"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:1023
+msgid "Product Per page"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:31
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:1034
+msgid "Product Single"
+msgstr ""
+
+#: woocommerce/wishlist-view-bkp.php:218 woocommerce/wishlist-view.php:173
+msgid "Public"
+msgstr ""
+
+#: inc/welcome/info.php:49
+msgid "Rate This Theme"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:32
+#: template-parts/archive/layout-list.php:49
+msgid "Read More"
+msgstr ""
+
+#: inc/core/opstore-hooks.php:253
+msgid "Read more"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:809
+msgid "Read More Text"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:25
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/config/plugins-config.php:105
+msgid "Regenerate Thumbnails"
+msgstr ""
+
+#: inc/core/opstore-hooks.php:216
+msgid "Related Articles"
+msgstr ""
+
+#: woocommerce/wishlist-view-bkp.php:232 woocommerce/wishlist-view.php:187
+#: inc/widgets/widget-fields.php:111 inc/widgets/widget-fields.php:120
+msgid "Remove"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:75
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/wishlist-view-bkp.php:152 woocommerce/wishlist-view-bkp.php:232
+#: woocommerce/wishlist-view.php:187 woocommerce/wishlist-view.php:195
+msgid "Remove this product"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:99
+msgid "Return to Shop"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:969
+msgid "Ribbon"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:549
+msgid "Right"
+msgstr ""
+
+#: inc/widgets/widget-init.php:17
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:989
+msgid "Sale Tag Label"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:1000
+msgid "Sale Tag Text"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:971
+msgid "Sale Tag Type"
+msgstr ""
+
+#: inc/config/plugins-config.php:45
+msgid "Salert"
+msgstr ""
+
+#: woocommerce/wishlist-view-bkp.php:41
+msgid "Save"
+msgstr ""
+
+#: searchform.php:6
+msgid "Search"
+msgstr ""
+
+#: searchform.php:4
+msgid "Search ..."
+msgstr ""
+
+#: inc/widgets/widget-product-search.php:55
+msgid "Search For Products"
+msgstr ""
+
+#: searchform.php:3 woocommerce/product-searchform.php:25
+msgid "Search for:"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:251
+msgid "Search Icon"
+msgstr ""
+
+#: inc/widgets/widget-product-search.php:34
+msgid "Search Product"
+msgstr ""
+
+#: woocommerce/product-searchform.php:26
+msgid "Search products&hellip;"
+msgstr ""
+
+#: inc/extras/opstore-breadcrumb.php:35
+msgid "Search results for"
+msgstr ""
+
+#. %s: search term
+#: inc/core/opstore-functions.php:148
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/woocommerce.php:252
+msgid "Share: "
+msgstr ""
+
+#: woocommerce/wishlist-view-bkp.php:212 woocommerce/wishlist-view.php:167
+msgid "Shared"
+msgstr ""
+
+#: inc/core/opstore-functions.php:125
+msgid "Shop"
+msgstr ""
+
+#: inc/widgets/widget-init.php:47
+msgid "Shop Sidebar"
+msgstr ""
+
+#: inc/core/opstore-hooks.php:161
+msgid "Shopping Cart Items"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:254
+#: inc/customizer/opstore-customizer.php:272
+#: inc/customizer/opstore-customizer.php:289
+#: inc/customizer/opstore-customizer.php:306
+#: inc/customizer/opstore-customizer.php:341
+#: inc/customizer/opstore-customizer.php:844
+#: inc/customizer/opstore-customizer.php:881
+#: inc/customizer/opstore-sanitize.php:34
+msgid "Show"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:634
+msgid "Sidebar Settings"
+msgstr ""
+
+#: inc/config/plugins-config.php:112
+msgid "Smart Slider 3"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:454
+msgid "Social Icons Settings"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:444
+msgid "Social Settings"
+msgstr ""
+
+#: template-parts/content-none.php:38
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: search.php:53
+msgid "Sorry, nothing found.Please try searching another keyword."
+msgstr ""
+
+#: inc/welcome/info.php:66 inc/welcome/info.php:69
+msgid "Static Front Page"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:235
+msgid "Sticky Menu"
+msgstr ""
+
+#: woocommerce/wishlist-view-bkp.php:102 woocommerce/wishlist-view.php:68
+msgid "Stock Status"
+msgstr ""
+
+#: woocommerce/product-searchform.php:27
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:582
+msgid "Suggested Dimensions for Banner:1920x325"
+msgstr ""
+
+#: inc/welcome/info.php:26
+msgid "Support"
+msgstr ""
+
+#. 1: list of tags.
+#: inc/template-tags.php:72
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:987
+msgid "Text"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:379
+msgid "Text Color"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:50
+msgid "Theme Color"
+msgstr ""
+
+#: inc/welcome/info.php:37
+msgid "Theme Details"
+msgstr ""
+
+#: inc/welcome/info.php:57 inc/welcome/info.php:121
+msgid "Theme Documentation"
+msgstr ""
+
+#: inc/welcome/info.php:74
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:33
+msgid "Theme Skin Color"
+msgstr ""
+
+#: inc/welcome/info.php:142
+msgid ""
+"Theme supports some helpful WordPress plugins to enhance your site. But, "
+"please enable only those plugins which you need in your site. For example, "
+"enable WooCommerce only if you are using e-commerce."
+msgstr ""
+
+#: inc/welcome/info.php:76
+msgid ""
+"Theme uses Customizer API for theme options. Using the Customizer you can "
+"easily customize different aspects of the theme."
+msgstr ""
+
+#: inc/welcome/info.php:84
+msgid ""
+"Theme uses Wedgets API for widget options. Using the Widgets you can easily "
+"customize different aspects of the theme."
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:16
+msgid "This allows to edit general theme settings"
+msgstr ""
+
+#: inc/widgets/widget-init.php:64
+msgid "This is a Footer Sidebar Area."
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:766
+msgid ""
+"This option will work if Default Sidebar is choosed from Pages or Posts "
+"Metabox, otherwise this option will be override by metabox option."
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:708
+msgid ""
+"This will include all the Archive Pages like Category Page,Search Page, "
+"Author Page and Tag Page."
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:544
+msgid "Title Position"
+msgstr ""
+
+#: inc/welcome/info.php:68
+msgid ""
+"To achieve custom home page other than blog listing, you need to create and "
+"set static front page & assign \"Home\" template from page attributes."
+msgstr ""
+
+#. %1$s: demo importer name
+#: inc/welcome/info.php:148
+#, php-format
+msgid ""
+"To import demo content for this theme, %1$s plugin is needed. Please make "
+"sure plugin is installed and activated. After plugin is activated, you will "
+"see WPop Demo Importer menu under Appearance."
+msgstr ""
+
+#. %1$s: demo importer name
+#: inc/welcome/info.php:93
+#, php-format
+msgid ""
+"To import sample demo content, %1$s plugin should be installed and activated."
+" After plugin is activated, visit WPOp Demo Importer menu under Appearance."
+msgstr ""
+
+#: layouts/header/header-layout1.php:5 layouts/header/header-layout2.php:99
+msgid "Toggle navigation"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:830
+msgid "Top Footer Settings"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:325
+msgid "Top Header Settings"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:315
+msgid "Top Header settings"
+msgstr ""
+
+#: functions.php:50
+msgid "Top Menu"
+msgstr ""
+
+#: inc/core/opstore-functions.php:81 inc/widgets/widget-social-icons.php:50
+#: inc/widgets/widget-social-icons.php:107
+msgid "Twitter"
+msgstr ""
+
+#: inc/config/plugins-config.php:31
+msgid "Ultra Companion"
+msgstr ""
+
+#: woocommerce/wishlist-view-bkp.php:89 woocommerce/wishlist-view.php:55
+msgid "Unit Price"
+msgstr ""
+
+#: inc/welcome/info.php:181
+msgid "Upgrade Now"
+msgstr ""
+
+#: inc/customizer/customizer.php:38
+msgid "Upgrade To Premium"
+msgstr ""
+
+#: inc/welcome/info.php:30
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: inc/widgets/widget-fields.php:114
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: inc/widgets/widget-fields.php:109
+msgid "Upload"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:581
+msgid "Upload Banner Image"
+msgstr ""
+
+#: inc/welcome/info.php:27
+msgid "Useful Plugins"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:303
+msgid "User Login"
+msgstr ""
+
+#: inc/welcome/info.php:41
+msgid "View Demo"
+msgstr ""
+
+#: inc/welcome/info.php:45 inc/welcome/info.php:60 inc/welcome/info.php:124
+msgid "View Documentation"
+msgstr ""
+
+#: inc/widgets/widget-fields.php:137
+msgid "View File"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:123
+#: inc/customizer/opstore-customizer.php:134
+msgid "Webpage Layout"
+msgstr ""
+
+#. %s: theme name
+#: inc/welcome/class.info.php:129
+#, php-format
+msgid ""
+"Welcome! Thank you for choosing %1$s. To fully take advantage of the best "
+"our theme can offer please make sure you visit theme details page."
+msgstr ""
+
+#: inc/welcome/info.php:82 inc/welcome/info.php:85
+msgid "Widgets"
+msgstr ""
+
+#: inc/core/opstore-hooks.php:299 layouts/header/header-layout2.php:33
+msgid "wishlist"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:286
+msgid "Wishlist Icon"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:906
+msgid "Woo Page Settings"
+msgstr ""
+
+#: inc/config/plugins-config.php:52
+msgid "Woocommerce"
+msgstr ""
+
+#: inc/customizer/opstore-customizer.php:916
+msgid "Woocommerce Settings"
+msgstr ""
+
+#. Author of the theme
+msgid "WPoperation"
+msgstr ""
+
+#: inc/config/plugins-config.php:91
+msgid "YITH WooCommerce Compare"
+msgstr ""
+
+#: inc/config/plugins-config.php:85
+msgid "YITH WooCommerce Quick View"
+msgstr ""
+
+#: inc/config/plugins-config.php:78
+msgid "YITH WooCommerce Wishlist"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:29
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/wishlist-view-bkp.php:303 woocommerce/wishlist-view.php:266
+msgid "Your email"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:48
+msgid "Your order"
+msgstr ""

@@ -1,0 +1,67 @@
+.widget_tfwctool_wishlist_content {}
+
+ul.tfwctools-mini-wishlist {
+    display: block;
+    padding: 0;
+    margin: 0;
+}
+
+li.tfwctools-mini-wishlist-item.mini-wishlist-item {
+    margin-bottom: 10px;
+    display: block;
+    position: relative;
+    /* background-color: aquamarine; */
+    float: left;
+    width: 100%;
+    padding-right: 30px;
+}
+
+li.tfwctools-mini-wishlist-item.mini-wishlist-item a.tfwctools-wishlist-thumb {
+    float: left;
+    margin-right: 15px;
+}
+
+span.tfwctools-wishlist-pprice {
+    display: block;
+}
+
+a.remove-from-wishlist {
+    position: absolute;
+    top: 2px;
+    right: 6px;
+    font-size: 17px !important;
+    width: 21px;
+    height: 20px;
+    text-align: center;
+    line-height: 17px;
+    border-radius: 2px;
+    color: #000;
+}
+
+li.tfwctools-mini-wishlist-item.mini-wishlist-item a.tfwctools-wishlist-thumb img {
+    width: 70px;
+    height: auto;
+    float: left;
+}
+
+a.tfwctools-wishlist-pname {
+    display: block;
+}
+
+a.remove-from-wishlist:hover {
+    background-color: #d7d7d7;
+    color: #F44336;
+}
+
+.tfwctool-mini-wishlist-bottom-container {
+    text-align: center;
+    padding: 10px;
+    clear: both;
+}
+
+.tfwctool-mini-wishlist-total span.tfwctool-lable {
+    margin-right: 10px;
+}
+.tfwctool-empty-wishlist{
+    text-align: center;
+}

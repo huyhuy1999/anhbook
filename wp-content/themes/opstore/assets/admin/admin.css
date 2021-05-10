@@ -1,0 +1,157 @@
+
+/*
+**  Admin Css
+*/
+
+/*Radio Image */
+.image.ui-buttonset .ui-button.ui-state-active img {
+    border: 2px solid;
+}
+
+/*****help section*************/
+
+.tmp-help-info {
+    border: 1px solid #AAAAAA;
+    color: #5e5e5e;
+    line-height: 25px;
+    padding: 26px 15px 15px;
+    position: relative;
+    margin-top: 10px;
+}
+
+.tmp-help-info > h4 {
+    background: #eeeeee none repeat scroll 0 0;
+    border: 1px solid #AAAAAA;
+    font-size: 15px;
+    padding: 5px;
+    position: absolute;
+    top: -31px;
+}
+/**enable/disable switch option*****/
+
+.switch_options{
+    display: block;
+}
+.switch_options:before,
+.switch_options:after{
+    content:'.';
+    display:block;
+    overflow:hidden;
+    visibility:hidden;
+    font-size:0;
+    line-height:0;
+    width:0;
+    height:0;
+}
+.switch_options:after{
+    clear:both;
+}
+.switch_options span{
+    display: inline-block;
+    float: left;
+    padding: 4px 9px;
+    margin: 0;
+    cursor: pointer;
+    font-size: 12px;
+    font-weight: normal;
+    color: #555;
+    border: 1px solid #aaa;
+    text-transform: uppercase;
+    line-height: 16px;
+    background: #ffffff; /* Old browsers */
+    background: -moz-linear-gradient(top,  #ffffff 0%, #e5e5e5 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(100%,#e5e5e5)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #ffffff 0%,#e5e5e5 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #ffffff 0%,#e5e5e5 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #ffffff 0%,#e5e5e5 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  #ffffff 0%,#e5e5e5 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#e5e5e5',GradientType=0 ); /* IE6-9 */
+
+}
+.switch_options span:first-of-type{
+    border-radius: 2px 0 0 2px;
+    border-right: 0;
+}
+.switch_options span:last-of-type{
+    border-radius: 0 2px 2px 0;
+    border-left: 0;
+}
+.switch_options span:hover{
+    background: #fafafa;
+}
+.switch_options span.selected{
+    background: #00b7ea; /* Old browsers */
+    background: -moz-linear-gradient(top,  #00b7ea 0%, #009ec3 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#00b7ea), color-stop(100%,#009ec3)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #00b7ea 0%,#009ec3 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #00b7ea 0%,#009ec3 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #00b7ea 0%,#009ec3 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  #00b7ea 0%,#009ec3 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00b7ea', endColorstr='#009ec3',GradientType=0 ); /* IE6-9 */
+    border-color: #0082A3;
+    color: #fff;
+}
+
+/*For customize sepertor */
+
+.customize-control-seperator {
+    display: block;
+    margin: 0 -12px;
+    padding: 13px 12px;
+    background-color: #fff;
+    color: #555;
+    border: 1px solid #ddd;
+    border-left: 0;
+    border-right: 0;
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    line-height: 1;
+    text-transform: uppercase;
+    border-left: 3px solid #017bbd;
+}
+
+
+/**
+* Customizer icons
+*/
+.customize-pane-parent .control-section .accordion-section-title:before {
+    font-family: dashicons;
+    content: "\f115";
+    font-size: 20px;
+    margin-right: 5px;
+    vertical-align: middle;
+}
+li#accordion-section-ultra-eleven h3.accordion-section-title:before{
+    content: none;
+}
+li#accordion-panel-general_settings .accordion-section-title:before{
+    content: "\f111";
+}
+li#accordion-panel-opstore_header_settings_panel .accordion-section-title:before{
+    content: "\f175";
+}
+li#accordion-panel-opstore_footer_settings_panel .accordion-section-title:before{
+    content: "\f212";
+}
+li#accordion-panel-nav_menus .accordion-section-title:before{
+    content: "\f333";
+}
+li#accordion-panel-widgets .accordion-section-title:before{
+    content: "\f116"; 
+}
+li#accordion-section-custom_css .accordion-section-title:before{
+    content: "\f499";
+}
+li#accordion-panel-opstore_pagepost_settings .accordion-section-title:before{
+    content: "\f547";
+}
+li#accordion-panel-opstore_social_settings .accordion-section-title:before {
+    content: "\f319";
+}
+
+.control-section.control-section-opstore .button{
+    background: #29d030;
+    box-shadow: none;
+    color: #fff;
+}

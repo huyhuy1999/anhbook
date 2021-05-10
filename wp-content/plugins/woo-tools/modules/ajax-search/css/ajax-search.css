@@ -1,0 +1,23 @@
+.ui-autocomplete {
+    padding: 10px;
+    border: 1px solid #ddd;
+    background-color: #FFF;
+    display: inline-block;
+    max-width: 490px;
+    z-index: 99;
+}
+
+.ui-autocomplete li {
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+    display: block;
+    cursor: pointer;
+}
+
+.ui-autocomplete li:last-child {
+    border-bottom: none;
+}
+
+.ui-autocomplete li.ui-state-focus {
+    background-color: antiquewhite;
+}

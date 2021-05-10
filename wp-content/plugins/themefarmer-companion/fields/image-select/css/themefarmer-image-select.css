@@ -1,0 +1,26 @@
+.themefarmer-image-select label{
+	background-color: #ffffff;
+    display: block;
+    margin-right: 10px;
+    padding: 0px;
+    float: left;
+    width: 25%;
+}
+.themefarmer-image-select label > input[type=radio]{
+  visibility: hidden; 
+  position: absolute;
+  /*display: none;*/
+  height: 0;
+  width: 0;
+}
+.themefarmer-image-select label > input + img{ 
+  	cursor: pointer;
+    border: 2px solid #FFF;
+    display: block;
+    width: 100%;
+    height: auto;
+}
+.themefarmer-image-select label > input:checked + img{
+  	border: 2px solid #e91e63;
+  	border: 2px solid #008ec2;
+}

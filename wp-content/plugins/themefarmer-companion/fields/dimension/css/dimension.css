@@ -1,0 +1,21 @@
+.themefarmer-dimension-input, .themefarmer-dimension-button-linked {
+    width: 20% !important;
+    float: left;
+    display: inline !important;
+    height: 32px !important;
+    border: 1px solid #ddd;
+}
+
+.themefarmer-dimension-button-linked {
+    background-color: #FFF;
+    border: none;
+    color: #000;
+    border: 1px solid #ddd;
+    cursor: pointer;
+    outline: none !important;
+}
+
+.themefarmer-dimension-button-linked.linked{
+	background-color: #455A64;
+	color: #FFF;
+}

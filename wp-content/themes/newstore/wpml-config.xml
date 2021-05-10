@@ -1,0 +1,7 @@
+<wpml-config>
+	<admin-texts>
+		<key name="theme_mods_newstore">
+			<key name="*" />
+		</key>
+	</admin-texts>
+</wpml-config>

@@ -1,0 +1,102 @@
+# Copyright (C) 2018 goodlook
+# This file is distributed under the same license as the goodlook package.
+msgid ""
+msgstr ""
+"Project-Id-Version: goodlook\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 404.php:9, 404.php:14
+msgid "Page not found!"
+msgstr ""
+
+#: 404.php:19
+msgid "Sorry, the page you’re looking for doesn’t exist!"
+msgstr ""
+
+#: 404.php:23
+msgid "To the homepage"
+msgstr ""
+
+#: functions/default-options.php:189
+msgid "Main background color"
+msgstr ""
+
+#: functions/hooks-functions.php:32
+msgid "N/A"
+msgstr ""
+
+#: functions/hooks-functions.php:33
+msgid "SKU:"
+msgstr ""
+
+#: functions/hooks-functions.php:80
+msgid "Brand"
+msgstr ""
+
+#: functions/hooks-functions.php:167
+msgid "Accessories"
+msgstr ""
+
+#: functions/register-sidebar.php:12
+msgid "Front Page widgets"
+msgstr ""
+
+#: functions/register-sidebar.php:14
+msgid "Widgets bar on Front page"
+msgstr ""
+
+#: parts/modal/modal-login.php:3, parts/modal/modal-login.php:69, parts/modal/modal-login.php:71
+msgid "Login"
+msgstr ""
+
+#: parts/modal/modal-login.php:25
+msgid "Username or email address"
+msgstr ""
+
+#: parts/modal/modal-login.php:35
+msgid "Password"
+msgstr ""
+
+#: parts/modal/modal-login.php:45
+msgid "Welcome!"
+msgstr ""
+
+#: parts/modal/modal-login.php:47, parts/modal/modal-login.php:102
+msgid "You have successfully logged in as"
+msgstr ""
+
+#: parts/modal/modal-login.php:58
+msgid "Remember me"
+msgstr ""
+
+#: parts/modal/modal-login.php:77
+msgid "Lost your password?"
+msgstr ""
+
+#: parts/modal/modal-login.php:87
+msgid "Don't Have an Account?"
+msgstr ""
+
+#: parts/modal/modal-login.php:91
+msgid "Register"
+msgstr ""
+
+#: premmerce-woocommerce-brands/brands-widget.php:58
+msgid "View all"
+msgstr ""
+
+#: premmerce-woocommerce-wishlist/wishlist-btn-move.php:15
+msgid "Move"
+msgstr ""
+
+#: woocommerce/loop/quick-view-button.php:13, woocommerce/loop/quick-view-button.php:15
+msgid "Quick View"
+msgstr ""

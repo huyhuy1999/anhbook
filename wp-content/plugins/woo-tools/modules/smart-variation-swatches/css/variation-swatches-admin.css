@@ -1,0 +1,23 @@
+.thumbnail.thumbnail-image.tfwctool-product-attributeimage {
+    display: inline-block;
+}
+
+table.wp-list-table .column-preview {
+    width: 80px;
+}
+
+.tfwc-preview {
+    width: 50px;
+    height: 50px;
+    margin: 0 auto !important;
+    border-radius: 2px;
+    box-shadow: 0px 0px 3px 0px #000000f7 inset;
+    display: block;
+}
+
+.tfwc-preview-color, 
+.tfwc-preview-image {
+	background-image: linear-gradient(45deg, #c4c4c4 25%, transparent 25%, transparent 75%, #c4c4c4 75%, #c4c4c4), linear-gradient(45deg, #c4c4c4 25%, transparent 25%, transparent 75%, #c4c4c4 75%, #c4c4c4);
+    background-position: 0 0, 10px 10px;
+    background-size: 20px 20px;
+}

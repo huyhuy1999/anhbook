@@ -1,0 +1,44 @@
+actor: Tester
+params:
+    - env
+paths:
+    tests: tests/acceptance-tests
+    log: tests/acceptance-tests/_output
+    data: tests/acceptance-tests/_data
+    helpers: tests/acceptance-tests/_support
+settings:
+    bootstrap: _bootstrap.php
+    colors: true
+    memory_limit: 1024M
+modules:
+    config:
+        WPDb:
+            dsn: 'mysql:host=mysql;port=3306;dbname=wordpress'
+            user: 'wordpress'
+            password: 'wordpress'
+            dump: 'dump.sql'
+            populate: true
+            cleanup: true
+            reconnect: true
+            waitlock: 0
+            url: 'http://wordpress'
+            urlReplacement: true
+            tablePrefix: 'wp_'
+        WPWebDriver:
+            host: chrome
+            url: 'http://wordpress'
+            browser: chrome
+            port: 4444
+            window_size: '2560x1440'
+            restart: true
+            wait: 0
+            adminUsername: admin
+            adminPassword: password
+            adminPath: /wp-admin
+        WPLoader:
+            loadOnly: true
+            wpRootFolder: /wp-core
+            dbName: wordpress
+            dbHost: mysql
+            dbUser: wordpress
+            dbPassword: wordpress

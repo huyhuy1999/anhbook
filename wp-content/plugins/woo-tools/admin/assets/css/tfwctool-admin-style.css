@@ -1,0 +1,128 @@
+.tfwctool-setting-container {
+    background-color: #FFF;
+    padding: 10px 50px;
+    border-radius: 2px;
+}
+
+.tfwctool-title {
+    background-color: #FFF;
+    margin: 0 !important;
+    margin-bottom: 25px !important;
+    display: block !important;
+    padding: 10px 50px !important;
+}
+
+.wctool-item .switch {
+  position: relative;
+  display: inline-block;
+  width: 60px;
+  height: 34px;
+}
+
+.wctool-item .switch input {display:none;}
+
+.wctool-item .slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+.wctool-item .slider:before {
+  position: absolute;
+  content: "";
+  height: 26px;
+  width: 26px;
+  left: 4px;
+  bottom: 4px;
+  background-color: white;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+.wctool-item input:checked + .slider {
+  background-color: #2196F3;
+}
+
+.wctool-item input:focus + .slider {
+  box-shadow: 0 0 1px #2196F3;
+}
+
+.wctool-item input:checked + .slider:before {
+  -webkit-transform: translateX(26px);
+  -ms-transform: translateX(26px);
+  transform: translateX(26px);
+}
+
+/* Rounded sliders */
+.wctool-item .slider.round {
+  border-radius: 34px;
+}
+
+.wctool-item .slider.round:before {
+  border-radius: 50%;
+}
+
+
+.wctool-item {
+    background-color: #FFF;
+    float: left;
+    width: 32%;
+    margin-right: 1.5%;
+    padding: 10px;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+}
+
+.wctool-item:nth-child(3n) {
+    margin-right: 0;
+}
+
+.wctool-item:nth-child(3n+1) {
+    clear: left;
+}
+
+.wctool-icon {
+    background-color: aquamarine;
+    float: left;
+    width: 50px;
+    height: 50px;
+    margin-right: 10px;
+}
+
+.wctool-name {
+    /* float: left; */
+    /* clear: both; */
+    display: inline;
+    /* margin-bottom: 50px; */
+}
+
+.wctool-item .switch {
+    float: right;
+}
+
+.wctool-item-info {
+    float: left;
+}
+
+.wctool-desc {
+    clear: both;
+    margin-top: 15px;
+    font-size: 14px;
+}
+
+.wctool-icon img {
+    width: 100%;
+    max-width: 100%;
+}
+
+.update-icon-spin{
+	color: #ca4a1f;
+	-webkit-animation: rotation 2s infinite linear;
+    animation: rotation 2s infinite linear;
+}

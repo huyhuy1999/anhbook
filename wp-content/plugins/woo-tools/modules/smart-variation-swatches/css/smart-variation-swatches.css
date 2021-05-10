@@ -1,0 +1,112 @@
+label.tfwctool-varation-swatch {
+    display: inline-block;
+    margin-left: 10px;
+    float: left;
+    position: relative;
+}
+
+.tfwctool-variation-swatch-preview-container {
+    padding: 2px;
+    /*border: 1px solid #ddd;*/
+    border-radius: 2px;
+    box-shadow: 0 0 0 1px #EFEFEF;
+}
+
+.tfwctool-varation-swatch .tfwctool-varation-swatch-preview {
+    display: block;
+    border-radius: 2px;
+    overflow: hidden;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+    color: #FFF;
+    padding: 0px;
+}
+.tfwctool-varation-swatch .tfwctool-varation-radio-input{
+    position: absolute !important;
+    opacity: 0 !important;
+    height: 0 !important;
+    width: 0 !important;
+}
+.tfwctool-varation-swatch .tfwctool-varation-trigger:checked + .tfwctool-variation-swatch-preview-container {
+    /*border-color: black;*/
+    box-shadow: 0 0 0 1px rgba(254, 1, 69, 0.60);
+}
+
+.hidden-variation-select, .hidden-variation-select select{
+    display: none !important;
+    visibility: hidden !important;
+}
+
+.tfwctool-varation-swatch-preview.tfwctool-varation-swatch-preview-label {
+    width: auto;
+    color: #000;
+    height: auto;
+    display: block;
+    padding: 5px 10px;
+}
+
+
+
+ .tfwctool-varation-swatch-preview.tfwctool-varation-swatch-preview-radio {
+    width: auto;
+    color: #000;
+    height: auto;
+    /*display: inline-block;*/
+    float: none;
+    padding: 5px 10px;
+    padding-left: 40px;
+    position: relative;
+}
+ 
+.tfwctool-varation-radio-type-radio-input {
+    position: absolute !important;
+    left: 5px !important;
+    top: 10px !important;
+}
+
+.tfwctool-varation-radio-type-radio-input:checked + .tfwctool-varation-swatch-preview.tfwctool-varation-swatch-preview-radio {
+    border-color: #000;
+}
+
+.visible-variation-select {
+    margin-left: 10px;
+    margin-bottom: 8px;
+}
+
+table.variations {
+    margin-bottom: 15px;
+}
+
+table.variations td.label {
+    vertical-align: top;
+    padding-top: 15px;
+}
+
+
+
+
+
+
+
+.woocommerce div.product form.cart .reset_variations {
+    display: block;
+    background-color: #ffffff;
+    width: 80px;
+    text-align: center;
+    border-radius: 2px;
+    font-size: 14px;
+    color: #FFF;
+    color: #646464;
+    border: 2px solid #bababa;
+    padding: 4px;
+    float: none !important;
+    clear: both;
+    margin-left: 10px;
+}
+.woocommerce div.product form.cart .reset_variations:before {
+    content: "\f05c";
+    clear: both;
+    font-family: "FontAwesome";
+    margin-right: 10px;
+}
